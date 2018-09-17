@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Pranoti
 permalink: /profile-stories/pranoti/
-breadcrumb: Pranoti
+breadcrumb: Profile Stories (Pranoti)
 collection_name: profile-stories
 ---
 

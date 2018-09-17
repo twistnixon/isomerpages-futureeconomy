@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Syafiq Yussoff
 permalink: /profile-stories/syafiq-yussoff/
-breadcrumb: Syafiq Yussoff
+breadcrumb: Profile Stories (Syafiq Yussoff)
 collection_name: profile-stories
 ---
 
@@ -26,4 +26,4 @@ Slowly but surely, through word-of-mouth, our customer base began to grow. Last 
 
 ![Photo of Syafiq and PM Lee]({{"/images/profile-stories/syafiq1.jpg" | absolute_url}})
 
-<centre> A Photo of Syafiq and wife, Siryana with PM Lee </centre>
+<center> A Photo of Syafiq and wife, Siryana with PM Lee </center>
