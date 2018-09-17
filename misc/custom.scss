@@ -6,17 +6,16 @@
 
 // HLB brand colors
 $primary: #182377;
-$secondary: #e7178b;
+$secondary: #E11683;
 $secondary-hover: lighten($secondary, 10%);
 
-$media-color-one: #2c3989;
-$media-color-two: #3d5afe;
-$media-color-three: #5c6bc0;
-$media-color-four: #5e35b1;
-$media-color-five: #9100ff;
-$media-color-six: #7c0645;
-// $media-color-seven: #ad1457;
-// $media-color-eight :#941baa;
+$media-color-one: #8640BB;
+$media-color-two: #5E35B1;
+$media-color-three: #5C6BC0;
+$media-color-four: #4860E9;
+$media-color-five: #2C3989;
+$media-color-six: #AD1457;
+$media-color-seven: #7C0645;
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
