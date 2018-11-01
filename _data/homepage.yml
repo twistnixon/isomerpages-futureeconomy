@@ -24,8 +24,8 @@ key-highlights:
   - title: Page A
     description: Page A is important too
     url: /page-A/
-  - title: Dropdown A Content C
-    description: Dropdown A Content C is v important
+  - title: Page B
+    description: Page B is important too
     url: /dropdown-A/content-C/
 
 #Call to Action Button
