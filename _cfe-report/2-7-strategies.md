@@ -29,3 +29,7 @@ The CFE’s recommendations are as follows:
 * To **build new networks to facilitate innovation**, our Institutes of Higher Learning (IHLs) and companies should link up with overseas partners in major innovation hubs and in key demand markets to form a Global Innovation Alliance (GIA). In-market partners can come on board the GIA to set up innovation launchpads, where Singapore and foreign startups can work together to tap on the expertise in our IHLs and their partners. In addition, the GIA can serve as welcome centres or focal points where Singapore-based enterprises and institutions can collaborate with overseas partners.
 
 * We will need to **acquire deeper knowledge of regional and global markets**, by spending time in these countries. The SkillsFuture Leadership Development Initiative is one avenue to expose potential corporate leaders to quality overseas assignments. More internationalisation programmes can be developed for students to acquire Global-Asia market insights and immerse themselves in overseas markets, while trade associations and economic agencies should undertake more study trips so businesses can gain insights into the region.
+
+### **2. Acquire and utilise deep skills**
+
+With the rapid pace of technological development, our workers will need to develop deep skills to stay relevant. Learning throughout life needs to be our way of life, so we can quickly and easily adapt to new job demands, or even switch jobs or industries as the economy transforms.
