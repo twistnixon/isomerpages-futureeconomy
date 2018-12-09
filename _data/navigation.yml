@@ -4,45 +4,43 @@
 #                                #
 ##################################
 
-- title: Who We Are
-  url: /who-we-are/overview/
+- title: About
+  url: /about/about-the-future-economy/
   sub-links:
-  - title: Overview
-    url: /who-we-are/overview/
-  - title: Committee Members
-    url: /who-we-are/committee-members/
-  - title: Five Futures
-    url: /who-we-are/five-futures/
-- title: The CFE Report
-  url: /cfe-report/overview/
+  - title: About the Future Economy
+    url: /about/about-the-future-economy/
+  - title: The Future Economy Council
+    url: /about/the-future-economy-council/
+  - title: The Committee Members
+    url: /about/the-committee-members/
+  - title: The Five Futures
+    url: /about/the-five-futures/
+  - title: The 7 Strategies
+    url: /about/the-seven-strategies/
+  - title: Read the Full CFE Report
+    url: /about/read-the-full-cfe-report/
+- title: Industries
+  url: /industries/
   sub-links:
-  - title: Overview
-    url: /cfe-report/overview/
-  - title: 7 Strategies
-    url: /cfe-report/7-strategies/
-- title: Profile Stories
-  url: /profile-stories/syafiq-yussoff/
+  - title: Industry Transformation Maps
+    url: /industries/industry-transformation-maps/
+- title: Success Stories
+  url: /success-stories/innovation/
   sub-links:
-  - title: Syafiq Yussoff
-    url: /profile-stories/syafiq-yussoff/
-  - title: Pranoti
-    url: /profile-stories/pranoti/
+  - title: Innovation
+    url: /success-stories/innovation/
+  - title: Internationalisation
+    url: /success-stories/internationalisation/
+  - title: Jobs & Skills
+    url: /success-stories/jobs-and-skills/
+  - title: Productivity
+    url: /success-stories/productivity/
 - title: Resources
   url: /resources/
   sub-links:
-  - title: All
-    url: /resources/
-  - title: Announcements
-    url: /resources/announcements/
-  - title: Photos
-    url: /resources/photos/
-  - title: News
-    url: /resources/news/
-  - title: Industry Transformation Map
-    url: /resources/industry-transformation-map/
-  - title: Speeches and Press Releases
-    url: /resources/speeches-and-press-releases/
+  - title: Summary of Schemes
+    url: /resources/summary-of-schemes/
   - title: Videos
     url: /resources/videos/
-- title: Contact Us
-  url: /contact-us/
+  - title: News & Press Releases
+    url: /resources/news-and-press-releases/

@@ -5,36 +5,47 @@
 ##################################
 
 # Agency logo
-agency-logo: /images/logo_futureeconomy.svg
+agency-logo: /images/future-economy-logo.svg
 
 # Hero Banner
-hero-title: Future Economy Council
-hero-subtitle: The Future Economy Council (FEC) drives the growth and transformation of Singapore’s economy for the future.
+hero-title: What is the Future Economy?
+hero-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi, dolore
 hero-banner: /images/banner_GardenBay.png
 
+# Key Highlights
 key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
-    external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
-    external: true
-  - title: Page A
-    description: Page A is important too
-    url: /page-A/
-  - title: Page B
-    description: Page B is important too
-    url: /dropdown-A/content-C/
+  - title: BUILT ENVIRONMENT
+    description: Lorem ipsum dolor sit amet
+    url: /industry-transformation-maps/built-environment/
+  - title: ESSENTIAL & DOMESTIC SERVICES
+    description: Lorem ipsum dolor sit amet
+    url: /industry-transformation-maps/essential-and-domestic-services/
+  - title: LIFESTYLE
+    description: Lorem ipsum dolor sit amet
+    url: /industry-transformation-maps/lifestyle/
+  - title: MANUFACTURING
+    description: Lorem ipsum dolor sit amet
+    url: /industry-transformation-maps/manufacturing/
+  - title: MODERN SERVICES
+    description: Lorem ipsum dolor sit amet
+    url: /industry-transformation-maps/modern-services/
+  - title: TRADE & CONNECTIVITY
+    description: Lorem ipsum dolor sit amet
+    url: /industry-transformation-maps/trade-and-connectivity/
 
-#Call to Action Button
-button:
-  - text: Learn More
-    url: /who-we-are/overview/
+# Call to Action Dropdown
+# i-want-to:
+#   - title: Innovate my business
+#     url: /transformation-pillars/innovation/
+#   - title: Reach International Markets
+#     url: /transformation-pillars/internationalisation/
+#   - title: Improve Jobs and Skills
+#     url: /transformation-pillars/jobs-and-skills/
+#   - title: Raise Productivity
+#     url: /transformation-pillars/productivity/
 
 # Resources Section
 resources-title: Resources
-resources-subtitle: Be in the know
-resources-more-button: More Resources
-resources-more-button-url: resources/
+resources-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+resources-more-button: View more
+resources-more-button-url: /resources/

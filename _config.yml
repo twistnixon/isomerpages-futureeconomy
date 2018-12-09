@@ -19,7 +19,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Future Economy Council.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://isomerpages-futureeconomy.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -43,11 +43,19 @@ breadcrumbs:
 
 
 collections:
-  profile-stories:
+  about:
     output: true
-  cfe-report:
+  success-stories:
     output: true
-  who-we-are:
+  innovation:
+    output: true
+  industries:
+    output: true
+  industry-transformation-maps:
+    output: true
+  built-environment:
+    output: true
+  articles:
     output: true
 
 # Resource Room and Pagination

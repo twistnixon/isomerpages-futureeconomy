@@ -5,17 +5,17 @@
 @charset "utf-8";
 
 // HLB brand colors
-$primary: #182377;
-$secondary: #E11683;
+$primary: #29ABE2;
+$secondary: #214497;
 $secondary-hover: lighten($secondary, 10%);
 
-$media-color-one: #8640BB;
-$media-color-two: #5E35B1;
-$media-color-three: #5C6BC0;
-$media-color-four: #4860E9;
-$media-color-five: #2C3989;
-$media-color-six: #AD1457;
-$media-color-seven: #7C0645;
+$media-color-one: #66913E;
+$media-color-two: #FBAD1D;
+$media-color-three: #EF804D;
+$media-color-four: #776AB0;
+$media-color-five: #776AB0;
+$media-color-six: #009197;
+$media-color-seven: #63111C;
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
@@ -365,5 +365,49 @@ $desktop: 960px + (2 * $gap) !default;
   width: 50%;
   @include touch() {
     width: 100%;
+  }
+}
+
+.bg-table-grey {
+    background-color: #F0F4F6;
+}
+
+.project-card {
+    position: relative;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    padding: 1.5rem 2rem;
+    margin-top: -4rem;
+    background-color: white;
+    height: 5rem;
+    color: #767676;
+    transition: margin-top .75s, height .75s;
+}
+
+.project-image {
+    object-fit: cover;
+    height: 230px;
+    width: 100%;
+	}
+
+.margin--bottom--xs {
+    margin-bottom: 0.25rem !important;
+}
+
+.padding--bottom--sm {
+    padding-bottom: 0.5rem !important;
+}
+
+.project-card h5 {
+    color: #0a0a0a;
+}
+
+.no-margin-top {
+  margin-top: 0 !important;
+}
+
+a.no-pdf-icon {
+  &:before {
+    content: none;
   }
 }
