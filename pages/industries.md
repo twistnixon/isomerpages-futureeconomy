@@ -1,4 +1,5 @@
 ---
+layout: simple-page
 title: Industries
 permalink: /industries/
 breadcrumb: Industries
