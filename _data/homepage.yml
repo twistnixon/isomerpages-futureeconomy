@@ -17,6 +17,7 @@ key-highlights:
   - title: BUILT ENVIRONMENT
     description: Lorem ipsum dolor sit amet
     url: /industry-transformation-maps/built-environment/
+    external: false
   - title: ESSENTIAL & DOMESTIC SERVICES
     description: Lorem ipsum dolor sit amet
     url: /industry-transformation-maps/essential-and-domestic-services/
