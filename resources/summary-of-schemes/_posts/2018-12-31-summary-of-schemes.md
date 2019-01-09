@@ -2,7 +2,7 @@
 layout: post
 title:  "Discover grants and schemes that your business can make use of."
 date:   2018-12-31
-permalink: "/resources/test-summary-of-schemes"
+permalink: "/resources/summary-of-schemes"
 ---
 
 The high-level Future Economy Council (FEC) met yesterday for the first time since Finance Minister Heng Swee Keat took over its reins from Deputy Prime Minister Tharman Shanmugaratnam in May.
