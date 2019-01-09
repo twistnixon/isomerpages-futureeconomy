@@ -4,26 +4,6 @@
 #                                #
 ##################################
 
-- title: About
-  url: /about/about-the-future-economy/
-  sub-links:
-  - title: About the Future Economy
-    url: /about/about-the-future-economy/
-  - title: The Future Economy Council
-    url: /about/the-future-economy-council/
-  - title: The Committee Members
-    url: /about/the-committee-members/
-  - title: The Five Futures
-    url: /about/the-five-futures/
-  - title: The 7 Strategies
-    url: /about/the-seven-strategies/
-  - title: Read the Full CFE Report
-    url: /about/read-the-full-cfe-report/
-- title: Industries
-  url: /industries/
-  sub-links:
-  - title: Industry Transformation Maps
-    url: /industries/industry-transformation-maps/
 - title: Success Stories
   url: /success-stories/innovation/
   sub-links:
@@ -35,6 +15,23 @@
     url: /success-stories/jobs-and-skills/
   - title: Productivity
     url: /success-stories/productivity/
+- title: Industries
+  url: /industries/
+  sub-links:
+  - title: Industry Transformation Maps
+    url: /industries/industry-transformation-maps/
+  - title: Built Environment
+    url: /industries/built-environment/
+  - title: Essential & Domestic Services
+    url: /industries/essential-and-domestic-services/
+  - title: Lifestyle
+    url: /industries/lifestyle/
+  - title: Manufacturing
+    url: /industries/manufacturing/
+  - title: Modern Services
+    url: /industries/modern-services/
+  - title: Trade & Connectivity
+    url: /industries/trade-and-connectivity/
 - title: Resources
   url: /resources/
   sub-links:
@@ -44,3 +41,16 @@
     url: /resources/videos/
   - title: News & Press Releases
     url: /resources/news-and-press-releases/
+- title: About
+  url: /about/the-future-economy-council/
+  sub-links:
+  - title: The Future Economy Council
+    url: /about/the-future-economy-council/
+  - title: The Council Members
+    url: /about/the-council-members/
+  - title: The Economic Clusters
+    url: /about/the-economic-clusters/
+  - title: The 7 Strategies
+    url: /about/the-seven-strategies/
+  - title: Read the Full CFE Report
+    url: /about/read-the-full-cfe-report/

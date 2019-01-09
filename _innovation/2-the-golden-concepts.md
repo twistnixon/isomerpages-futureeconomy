@@ -18,19 +18,13 @@ collection_name: innovation
 
 Inspired by the independent, mobile lifestyle that they saw seniors in Denmark enjoying, Vanessa and Chang Xi set up The Golden Concepts to empower seniors in Singapore. By offering affordable, high quality, and innovative eldercare products such as mobility aids and daily living essentials on their website (including some they developed themselves), they help people to maximise their mobility and enjoy a better quality of life.
 
----
-
 ### **READY FOR TOMORROW’S CHALLENGES**
 
 Utilising technology for every aspect of their business meant The Golden Concepts could be set up quickly and efficiently. From just 4 products in 2011, they now offer over 400 different items, and are working on developing their own brands to suit local needs better. While they’ve had challenges over the years, innovating, internationalising and becoming even more productive have all helped them to keep on growing!
 
----
-
 ### **MAKING THE FUTURE BETTER FOR EVERYONE**
 
 The expansion they’ve seen over the past years is just the beginning for The Golden Concepts. Vanessa hopes to see it expand even further beyond Singapore and the Asia Pacific to become a major international retailer. Beyond that, they hope to continue to bring innovative, smart brands to users and caregivers to empower them and change their lives for the better.
-
----
 
 ### **THEIR FUTURE ECONOMY STORY**
 

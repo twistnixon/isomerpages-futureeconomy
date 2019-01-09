@@ -238,8 +238,25 @@ $desktop: 960px + (2 * $gap) !default;
 		&:hover{
 			background-color: darken($primary,10%);
 		}
+		p {
+			margin-top: 10px;
+		}
 	}
 }
+
+// Banner font size tweak
+#main-content > section.bp-hero.bg-hero > div > div > div > div > h1 {
+	line-height: 3rem;
+}
+
+#main-content > section.bp-hero.bg-hero > div > div > div > div > h1 > b.is-hidden-touch {
+	font-size: 3.5rem;
+}
+
+#main-content > section.bp-hero.bg-hero > div > div > div > div > h1 > b.is-hidden-desktop {
+	font-size: 3rem;
+}
+
 
 // Navbar
 .navbar{
@@ -372,21 +389,23 @@ $desktop: 960px + (2 * $gap) !default;
     background-color: #F0F4F6;
 }
 
+a.project-link {
+	text-decoration: none;
+}
+
 .project-card {
     position: relative;
-    margin-left: 1rem;
-    margin-right: 1rem;
-    padding: 1.5rem 2rem;
-    margin-top: -4rem;
+    margin: 0;
+    padding: 0;
+    margin-top: 0.5rem;
     background-color: white;
-    height: 5rem;
+    height: 1rem;
     color: #767676;
-    transition: margin-top .75s, height .75s;
 }
 
 .project-image {
     object-fit: cover;
-    height: 230px;
+    // height: 230px;
     width: 100%;
 	}
 
@@ -400,14 +419,23 @@ $desktop: 960px + (2 * $gap) !default;
 
 .project-card h5 {
     color: #0a0a0a;
+		font-size: 1.3rem;
 }
 
 .no-margin-top {
   margin-top: 0 !important;
 }
 
+.no-padding-top {
+  padding-top: 0 !important;
+}
+
 a.no-pdf-icon {
   &:before {
     content: none;
   }
+}
+
+body > footer.bp-footer.top-section > div > div:nth-child(3) > div.col.padding--top--sm.padding--bottom--sm.is-right-desktop-only > ul > li:nth-child(1), body > footer.bp-footer.top-section > div > div:nth-child(3) > div.col.padding--top--sm.padding--bottom--sm.is-right-desktop-only > ul > li:nth-child(3) {
+	display: none;
 }

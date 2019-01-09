@@ -45,15 +45,41 @@ breadcrumbs:
 collections:
   about:
     output: true
+  industries:
+    output: true
   success-stories:
     output: true
   innovation:
+    output: true
+  internationalisation:
+    output: true
+  productivity:
     output: true
   industries:
     output: true
   industry-transformation-maps:
     output: true
   built-environment:
+    output: true
+  essential-and-domestic-services:
+    output: true
+  lifestyle:
+    output: true
+  retail:
+    output: true
+  food-services:
+    output: true
+  food-manufacturing:
+    output: true
+  trade-and-connectivity:
+    output: true
+  logistics:
+    output: true
+  manufacturing:
+    output: true
+  precision-engineering:
+    output: true
+  modern-services:
     output: true
   articles:
     output: true

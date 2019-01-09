@@ -1,21 +1,9 @@
 ---
 layout: leftnav-page-content
-permalink: /success-stories/jobs-and-skills
+permalink: /success-stories/jobs-and-skills/
 breadcrumb: Jobs and Skills
 title: Jobs and Skills
 collection_name: success-stories
 ---
 
-### Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem vero quia ipsa odit molestias repellendus et suscipit nobis vel quas. Ducimus asperiores fuga ad animi ex odit! Autem eos, tenetur, ex quia vero architecto, saepe asperiores odit et a fuga itaque amet ut voluptatibus iusto sit dicta nemo aliquid beatae.
-
-### **Lorem ipsum dolor sit amet.**
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id sint facere nulla atque illo nisi ad, amet quaerat perspiciatis officiis aut dolores sapiente, quisquam molestiae asperiores voluptas eum eligendi. Voluptatum eum, earum hic ipsa alias ducimus? Labore magni deleniti, impedit.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga nobis voluptates officia in expedita ullam debitis odit vel praesentium aperiam. Libero animi excepturi eveniet nihil voluptatum in quasi soluta totam aliquid molestias nisi quam alias omnis corrupti, perferendis possimus dolor.
-
----
-
-### **Lorem ipsum dolor sit amet.**
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur exercitationem corrupti error quibusdam, repellat quos quisquam explicabo. Sapiente numquam minima sequi animi minus blanditiis accusamus eligendi, rem, optio esse, quae alias reiciendis? Necessitatibus dolore consequatur quasi? Dignissimos quibusdam, dolorem veniam.
+### Our people are our greatest resource. Investing in them means equipping them with skills to support the shift to greater value creation, and promoting more manpower-lean, agile workforces.

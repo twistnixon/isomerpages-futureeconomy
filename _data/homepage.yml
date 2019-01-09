@@ -8,44 +8,48 @@
 agency-logo: /images/future-economy-logo.svg
 
 # Hero Banner
-hero-title: What is the Future Economy?
-hero-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi, dolore
-hero-banner: /images/banner_GardenBay.png
+hero-title: Get your business ready for the Future Economy and discover the possibilities
+hero-subtitle:
+hero-banner: /images/FE_Web-Banner_v0.jpg
 
 # Key Highlights
 key-highlights:
-  - title: BUILT ENVIRONMENT
-    description: Lorem ipsum dolor sit amet
-    url: /industry-transformation-maps/built-environment/
-  - title: ESSENTIAL & DOMESTIC SERVICES
-    description: Lorem ipsum dolor sit amet
-    url: /industry-transformation-maps/essential-and-domestic-services/
-  - title: LIFESTYLE
-    description: Lorem ipsum dolor sit amet
-    url: /industry-transformation-maps/lifestyle/
-  - title: MANUFACTURING
-    description: Lorem ipsum dolor sit amet
-    url: /industry-transformation-maps/manufacturing/
-  - title: MODERN SERVICES
-    description: Lorem ipsum dolor sit amet
-    url: /industry-transformation-maps/modern-services/
-  - title: TRADE & CONNECTIVITY
-    description: Lorem ipsum dolor sit amet
-    url: /industry-transformation-maps/trade-and-connectivity/
+  - title: Innovation
+    # description: Lorem ipsum dolor sit amet
+    url: /success-stories/innovation/
+  - title: Internationalisation
+    # description: Lorem ipsum dolor sit amet
+    url: /success-stories/internationalisation/
+  - title: Jobs & Skills
+    # description: Lorem ipsum dolor sit amet
+    url: /success-stories/jobs-and-skills/
+  - title: Productivity
+    # description: Lorem ipsum dolor sit amet
+    url: /success-stories/productivity/
+  # - title: MODERN SERVICES
+  #   description: Lorem ipsum dolor sit amet
+  #   url: /industry-transformation-maps/modern-services/
+  # - title: TRADE & CONNECTIVITY
+  #   description: Lorem ipsum dolor sit amet
+  #   url: /industry-transformation-maps/trade-and-connectivity/
 
 # Call to Action Dropdown
 # i-want-to:
-#   - title: Innovate my business
-#     url: /transformation-pillars/innovation/
-#   - title: Reach International Markets
-#     url: /transformation-pillars/internationalisation/
-#   - title: Improve Jobs and Skills
-#     url: /transformation-pillars/jobs-and-skills/
-#   - title: Raise Productivity
-#     url: /transformation-pillars/productivity/
+#   - title: find out more about built environment industry
+#     url: /industries/built-environment/
+#   - title: find out more about the essential & domestic services industry
+#     url: /industries/essential-and-domestic-services/
+#   - title: find out more about the lifestyle industry
+#     url: /industries/lifestyle/
+#   - title: find out more about the manufacturing industry
+#     url: /industries/manufacturing/
+#   - title: find out more about the modern services industry
+#     url: /industries/modern-services/
+#   - title: find out more about the trade & connectivity industry
+#     url: /industries/trade-and-connectivity/
 
 # Resources Section
 resources-title: Resources
-resources-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+resources-subtitle: Find out how the Future Economy may affect you.
 resources-more-button: View more
 resources-more-button-url: /resources/
