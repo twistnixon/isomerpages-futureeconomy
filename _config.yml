@@ -85,11 +85,13 @@ collections:
     output: true
   articles:
     output: true
+  resources:
+    output: true
 
 # Resource Room and Pagination
-resources_name: "resources"
+resources_name: "media and news"
 paginate: 12
-paginate_path: "/resources/page:num"
+paginate_path: "/media-and-news/page:num"
 
 # Site configuration
 ####################
