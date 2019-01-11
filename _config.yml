@@ -85,7 +85,7 @@ collections:
     output: true
   articles:
     output: true
-  resources-2:
+  resources:
     output: true
 
 # Resource Room and Pagination
