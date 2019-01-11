@@ -39,6 +39,11 @@
     url: /resources/industry-transformation-maps/
 - title: Media and News
   url: /media-and-news/
+  sub-links:
+  - title: Videos
+    url: /media-and-news/videos/
+  - title: News and Press Releases
+    url: /media-and-news/news-and-press-releases/
 - title: About
   url: /about/the-future-economy-council/
   sub-links:
