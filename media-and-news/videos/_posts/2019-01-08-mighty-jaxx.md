@@ -2,7 +2,7 @@
 layout: post
 title:  "Hear from Jackson Aw, founder of Mighty Jaxx."
 date: 2019-01-08
-permalink: "/media-and-news/mighty-jaxx/"
+permalink: "/media-and-news/videos/mighty-jaxx/"
 ---
 
 Hear from Jackson Aw, founder of Mighty Jaxx, who has turned a humble toy designing and manufacturing company to an award-winning design studio that has worked with multiple international brands!

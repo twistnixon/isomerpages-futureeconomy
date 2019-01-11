@@ -2,7 +2,7 @@
 layout: post
 title:  "HR Boost with Expert Support"
 date:   2017-08-22
-permalink: "/media-and-news/hr-boost-with-expert-support"
+permalink: "/media-and-news/news-and-press-releases/hr-boost-with-expert-support"
 ---
 
 ### **Apparel manufacturer Teo Garments shares how it improved in-house HR operations to attract, motivate and develop its people.**
