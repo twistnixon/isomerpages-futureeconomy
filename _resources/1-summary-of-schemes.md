@@ -3,7 +3,7 @@ layout: leftnav-page-content
 permalink: /resources/summary-of-schemes/
 breadcrumb: Summary of Schemes
 title: Summary of Schemes
-collection_name: resources
+collection_name: resources-2
 ---
 
 The high-level Future Economy Council (FEC) met yesterday for the first time since Finance Minister Heng Swee Keat took over its reins from Deputy Prime Minister Tharman Shanmugaratnam in May.

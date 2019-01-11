@@ -3,7 +3,7 @@ layout: leftnav-page-content
 permalink: /resources/industry-transformation-maps/
 breadcrumb: Industry Transformation Maps
 title: Industry Transformation Maps
-collection_name: resources
+collection_name: resources-2
 ---
 
 ### **Built Environment**
