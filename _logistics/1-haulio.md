@@ -8,10 +8,10 @@ collection_name: logistics
 
 ### **Haulio**
 
-Watch as Alvin Ea, budding entrepreneur and co-founder of homegrown startup Haulio, tells the story of how he is set on transforming a “sunset” industry through a centralised platform that allows the seamless sharing of jobs via a single channel for hauliers.
+Meet Alvin Ea, co-founder of Haulio. He shares how a partnership worked to transform the fragmented haulage industry through the use of technology and a change in mindsets.
 
 <div class="bp-youtube">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/BBcR4KGDdL0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/b0Kt_4-534U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 ---
