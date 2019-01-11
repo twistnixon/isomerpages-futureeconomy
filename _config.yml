@@ -77,6 +77,8 @@ collections:
     output: true
   manufacturing:
     output: true
+  aerospace:
+    output: true
   precision-engineering:
     output: true
   modern-services:
