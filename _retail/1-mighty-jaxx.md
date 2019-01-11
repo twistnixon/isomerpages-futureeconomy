@@ -11,5 +11,5 @@ collection_name: retail
 Hear from Jackson Aw, founder of Mighty Jaxx, who has turned a humble toy designing and manufacturing company to an award-winning design studio that has worked with multiple international brands!
 
 <div class="bp-youtube">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/BBcR4KGDdL0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/b--dqUVCQCQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
