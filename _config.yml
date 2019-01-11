@@ -89,7 +89,7 @@ collections:
     output: true
 
 # Resource Room and Pagination
-resources_name: "media and news"
+resources_name: "media-and-news"
 paginate: 12
 paginate_path: "/media-and-news/page:num"
 
