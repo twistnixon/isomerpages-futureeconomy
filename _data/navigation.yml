@@ -18,8 +18,6 @@
 - title: Industries
   url: /industries/
   sub-links:
-  - title: Industry Transformation Maps
-    url: /industries/industry-transformation-maps/
   - title: Built Environment
     url: /industries/built-environment/
   - title: Essential & Domestic Services
@@ -33,10 +31,14 @@
   - title: Trade & Connectivity
     url: /industries/trade-and-connectivity/
 - title: Resources
-  url: /resources/
+  url: /resources/summary-of-schemes/
   sub-links:
   - title: Summary of Schemes
     url: /resources/summary-of-schemes/
+  - title: Industry Transformation Maps
+    url: /resources/industry-transformation-maps/
+- title: Media and News
+  url: /media-and-news/
 - title: About
   url: /about/the-future-economy-council/
   sub-links:
