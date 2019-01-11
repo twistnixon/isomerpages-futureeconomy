@@ -10,7 +10,7 @@ collection_name: industries
 	<div class="row is-multiline">
 
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a href="#" class="project-link">
+			<a href="/industries/manufacturing/aerospace/" class="project-link">
 	      <img src="/images/industries/manufacturing/aerospace.jpg" alt="Aerospace" class="project-image">
 	      <div class="project-card">
 	          <div class="project-title margin--bottom--xs">
