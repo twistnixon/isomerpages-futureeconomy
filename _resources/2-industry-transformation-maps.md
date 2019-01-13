@@ -12,7 +12,7 @@ collection_name: resources
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-half-tablet">
 			<a href="/images/PDF/Built-Environment/Construction.pdf" class="project-link no-pdf-icon" target="_blank">
-				<img src="/images/PDF/Built-Environment/FE_BE_1.jpg" alt="Construction" class="project-image">
+				<img src="/images/PDF/Built-Environment/FE_BE_1.jpg" alt="Construction" class="project-image">1.2mb
 				</a>
 			</div>
 			<div class="col is-one-third-desktop is-half-tablet">
