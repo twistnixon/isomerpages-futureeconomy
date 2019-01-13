@@ -404,10 +404,14 @@ a.project-link {
 }
 
 .project-image {
-    // object-fit: cover;
-    height: auto;
+    object-fit: cover;
+    height: 230px;
     width: 100%;
 	}
+
+.project-image.large-thumbnail {
+	height: auto;
+}
 
 .margin--bottom--xs {
     margin-bottom: 0.25rem !important;
