@@ -8,7 +8,7 @@ collection_name: manufacturing
 
 ### Singapore’s aerospace industry boasts one of Asia’s largest and most diverse eco-systems with over 130 aerospace players and a growing satellite industry with more than 30 firms.
 
-[Aerospace.pdf](/images/PDF/Manufacturing/Aerospace.pdf){:target="_blank"}
+[Aerospace.pdf (87kb)](/images/PDF/Manufacturing/Aerospace.pdf){:target="_blank"}
 
 ---
 

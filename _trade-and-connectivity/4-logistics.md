@@ -8,7 +8,7 @@ collection_name: trade-and-connectivity
 
 ### The Logistics industry is key to businesses that rely on prompt and quality delivery of their goods and services; and is constantly evolving along with technology and business needs.
 
-[Logistics.pdf](/images/PDF/Trade-and-Connectivity/Logistics.pdf){:target="_blank"}
+[Logistics.pdf (118kb)](/images/PDF/Trade-and-Connectivity/Logistics.pdf){:target="_blank"}
 
 ---
 <div>

@@ -13,7 +13,7 @@ collection_name: about
 				<img src="/images/MTIS_Full-Report.jpg" alt="Read the Full CFE Report">
 				<div class="project-card">
 						<div class="project-title margin--bottom--xs">
-								<h5><b>Read the Full CFE Report</b></h5>
+								<h5><b>Read the Full CFE Report (2.4mb)</b></h5>
 						</div>
 				</div>
 			</a>

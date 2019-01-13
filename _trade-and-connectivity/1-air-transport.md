@@ -8,6 +8,6 @@ collection_name: trade-and-connectivity
 
 ### The Air Transport industry cultivates a wide spectrum of aviation-related businesses and activities in areas such as air cargo handling; maintenance, repair and overhaul services; and aircraft manufacturing.
 
-[Air-Transport.pdf](/images/PDF/Trade-and-Connectivity/Air-Transport.pdf){:target="_blank"}
+[Air-Transport.pdf (212kb)](/images/PDF/Trade-and-Connectivity/Air-Transport.pdf){:target="_blank"}
 
 ---
