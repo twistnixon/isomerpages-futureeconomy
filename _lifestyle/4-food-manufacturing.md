@@ -8,7 +8,7 @@ collection_name: lifestyle
 
 ### More than half of the output of Singapore’s Food Manufacturing sector is exported to other countries. To continue to thrive in today’s world of myriad options, food manufacturers need to differentiate themselves from the competition.
 
-[Food-Manufacturing.pdf (86kb)](/images/PDF/Lifestyle/Food-Manufacturing.pdf){:target="_blank"}
+[Food-Manufacturing.pdf (92kb)](/images/PDF/Lifestyle/Food-Manufacturing.pdf){:target="_blank"}
 
 ---
 

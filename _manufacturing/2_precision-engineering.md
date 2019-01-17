@@ -8,7 +8,7 @@ collection_name: manufacturing
 
 ### The precision engineering industry plays a key role in Singapore’s manufacturing sector, supporting the production of complex components used in sectors ranging from electronics to aerospace, oil & gas and medtech.
 
-[Precision-Engineering.pdf (114kb)](/images/PDF/Manufacturing/Precision-Engineering.pdf){:target="_blank"}
+[Precision-Engineering.pdf (85kb)](/images/PDF/Manufacturing/Precision-Engineering.pdf){:target="_blank"}
 
 ---
 

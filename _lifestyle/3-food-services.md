@@ -8,7 +8,7 @@ collection_name: lifestyle
 
 ### The food services industry has been offering a multi-cultural blend of flavours to local and global consumers. As more home-grown F&B companies establish their brands abroad, the industry needs to become more productive without comprising the food quality.
 
-[Food-Services.pdf (104kb)](/images/PDF/Lifestyle/Food-Services.pdf){:target="_blank"}
+[Food-Services.pdf (114kb)](/images/PDF/Lifestyle/Food-Services.pdf){:target="_blank"}
 
 ---
 

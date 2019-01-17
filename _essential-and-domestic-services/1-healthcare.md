@@ -8,6 +8,6 @@ collection_name: essential-and-domestic-services
 
 ### With an aging population and rising chronic disease incidence, our healthcare needs will increase in demand and complexity. The industry needs to go beyond giving care to protecting health, and move from care centres to communities.
 
-[Healthcare.pdf (632kb)](/images/PDF/Domestic-Services/Healthcare.pdf){:target="_blank"}
+[Healthcare.pdf (112kb)](/images/PDF/Domestic-Services/Healthcare.pdf){:target="_blank"}
 
 ---

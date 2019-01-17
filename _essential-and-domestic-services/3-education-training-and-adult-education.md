@@ -8,6 +8,6 @@ collection_name: essential-and-domestic-services
 
 ### The Training and Adult Education industry supports overall industry transformation, enabling Singaporeans to stay relevant. By ensuring it is both high quality and responsive, it addresses the future needs of businesses and individuals alike.
 
-[Education-Training-and-Adult-Education.pdf (381kb)](/images/PDF/Domestic-Services/Education-Training-and-Adult-Education.pdf){:target="_blank"}
+[Education-Training-and-Adult-Education.pdf (114kb)](/images/PDF/Domestic-Services/Education-Training-and-Adult-Education.pdf){:target="_blank"}
 
 ---
