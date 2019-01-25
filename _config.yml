@@ -19,7 +19,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Future Economy Council.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://isomerpages-futureeconomy.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -27,6 +27,8 @@ github_username:  jekyll
 markdown: kramdown
 remote_theme: isomerpages/isomerpages-template
 safe: false
+
+is_government: false
 
 plugins:
   - jekyll-feed
@@ -43,17 +45,55 @@ breadcrumbs:
 
 
 collections:
-  profile-stories:
+  about:
     output: true
-  cfe-report:
+  industries:
     output: true
-  who-we-are:
+  success-stories:
+    output: true
+  innovation:
+    output: true
+  internationalisation:
+    output: true
+  productivity:
+    output: true
+  industries:
+    output: true
+  industry-transformation-maps:
+    output: true
+  built-environment:
+    output: true
+  essential-and-domestic-services:
+    output: true
+  lifestyle:
+    output: true
+  retail:
+    output: true
+  food-services:
+    output: true
+  food-manufacturing:
+    output: true
+  trade-and-connectivity:
+    output: true
+  logistics:
+    output: true
+  manufacturing:
+    output: true
+  aerospace:
+    output: true
+  precision-engineering:
+    output: true
+  modern-services:
+    output: true
+  articles:
+    output: true
+  resources:
     output: true
 
 # Resource Room and Pagination
-resources_name: "resources"
+resources_name: "media-and-news"
 paginate: 12
-paginate_path: "/resources/page:num"
+paginate_path: "/media-and-news/page:num"
 
 # Site configuration
 ####################

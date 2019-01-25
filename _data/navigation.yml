@@ -4,45 +4,54 @@
 #                                #
 ##################################
 
-- title: Who We Are
-  url: /who-we-are/overview/
+- title: Success Stories
+  url: /success-stories/innovation/
   sub-links:
-  - title: Overview
-    url: /who-we-are/overview/
-  - title: Committee Members
-    url: /who-we-are/committee-members/
-  - title: Five Futures
-    url: /who-we-are/five-futures/
-- title: The CFE Report
-  url: /cfe-report/overview/
+  - title: Innovation
+    url: /success-stories/innovation/
+  - title: Internationalisation
+    url: /success-stories/internationalisation/
+  - title: Jobs & Skills
+    url: /success-stories/jobs-and-skills/
+  - title: Productivity
+    url: /success-stories/productivity/
+- title: Industries
+  url: /industries/
   sub-links:
-  - title: Overview
-    url: /cfe-report/overview/
-  - title: 7 Strategies
-    url: /cfe-report/7-strategies/
-- title: Profile Stories
-  url: /profile-stories/syafiq-yussoff/
-  sub-links:
-  - title: Syafiq Yussoff
-    url: /profile-stories/syafiq-yussoff/
-  - title: Pranoti
-    url: /profile-stories/pranoti/
+  - title: Built Environment
+    url: /industries/built-environment/
+  - title: Essential & Domestic Services
+    url: /industries/essential-and-domestic-services/
+  - title: Lifestyle
+    url: /industries/lifestyle/
+  - title: Manufacturing
+    url: /industries/manufacturing/
+  - title: Modern Services
+    url: /industries/modern-services/
+  - title: Trade & Connectivity
+    url: /industries/trade-and-connectivity/
 - title: Resources
-  url: /resources/
+  url: /resources/summary-of-schemes/
   sub-links:
-  - title: All
-    url: /resources/
-  - title: Announcements
-    url: /resources/announcements/
-  - title: Photos
-    url: /resources/photos/
-  - title: News
-    url: /resources/news/
-  - title: Industry Transformation Map
-    url: /resources/industry-transformation-map/
-  - title: Speeches and Press Releases
-    url: /resources/speeches-and-press-releases/
+  - title: Summary of Schemes
+    url: /resources/summary-of-schemes/
+  - title: Industry Transformation Maps
+    url: /resources/industry-transformation-maps/
+- title: Media and News
+  url: /media-and-news/
+  sub-links:
   - title: Videos
-    url: /resources/videos/
-- title: Contact Us
-  url: /contact-us/
+    url: /media-and-news/videos/
+  - title: News and Press Releases
+    url: /media-and-news/news-and-press-releases/
+- title: About
+  url: /about/the-future-economy-council/
+  sub-links:
+  - title: The Future Economy Council
+    url: /about/the-future-economy-council/
+  - title: The Economic Clusters
+    url: /about/the-economic-clusters/
+  - title: The 7 Strategies
+    url: /about/the-seven-strategies/
+  - title: Read the Full CFE Report
+    url: /about/read-the-full-cfe-report/

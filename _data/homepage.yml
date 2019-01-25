@@ -5,36 +5,51 @@
 ##################################
 
 # Agency logo
-agency-logo: /images/logo_futureeconomy.svg
+agency-logo: /images/future-economy-logo.svg
 
 # Hero Banner
-hero-title: Future Economy Council
-hero-subtitle: The Future Economy Council (FEC) drives the growth and transformation of Singapore’s economy for the future.
-hero-banner: /images/banner_GardenBay.png
+hero-title: Get your business ready for the Future Economy and discover the possibilities
+hero-subtitle:
+hero-banner: /images/FE_Web-Banner_v0.jpg
 
+# Key Highlights
 key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
-    external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
-    external: true
-  - title: Page A
-    description: Page A is important too
-    url: /page-A/
-  - title: Page B
-    description: Page B is important too
-    url: /dropdown-A/content-C/
+  - title: Innovation
+    # description: Lorem ipsum dolor sit amet
+    url: /success-stories/innovation/
+  - title: Internationalisation
+    # description: Lorem ipsum dolor sit amet
+    url: /success-stories/internationalisation/
+  - title: Jobs & Skills
+    # description: Lorem ipsum dolor sit amet
+    url: /success-stories/jobs-and-skills/
+  - title: Productivity
+    # description: Lorem ipsum dolor sit amet
+    url: /success-stories/productivity/
+  # - title: MODERN SERVICES
+  #   description: Lorem ipsum dolor sit amet
+  #   url: /industry-transformation-maps/modern-services/
+  # - title: TRADE & CONNECTIVITY
+  #   description: Lorem ipsum dolor sit amet
+  #   url: /industry-transformation-maps/trade-and-connectivity/
 
-#Call to Action Button
-button:
-  - text: Learn More
-    url: /who-we-are/overview/
+# Call to Action Dropdown
+# i-want-to:
+#   - title: find out more about built environment industry
+#     url: /industries/built-environment/
+#   - title: find out more about the essential & domestic services industry
+#     url: /industries/essential-and-domestic-services/
+#   - title: find out more about the lifestyle industry
+#     url: /industries/lifestyle/
+#   - title: find out more about the manufacturing industry
+#     url: /industries/manufacturing/
+#   - title: find out more about the modern services industry
+#     url: /industries/modern-services/
+#   - title: find out more about the trade & connectivity industry
+#     url: /industries/trade-and-connectivity/
 
 # Resources Section
-resources-title: Resources
-resources-subtitle: Be in the know
-resources-more-button: More Resources
-resources-more-button-url: resources/
+resources-title: Media and News
+resources-subtitle: Find out how the Future Economy may affect you.
+resources-more-button: View more
+resources-more-button-url: /media-and-news/

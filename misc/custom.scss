@@ -5,17 +5,17 @@
 @charset "utf-8";
 
 // HLB brand colors
-$primary: #182377;
-$secondary: #E11683;
+$primary: #29ABE2;
+$secondary: #214497;
 $secondary-hover: lighten($secondary, 10%);
 
-$media-color-one: #8640BB;
-$media-color-two: #5E35B1;
-$media-color-three: #5C6BC0;
-$media-color-four: #4860E9;
-$media-color-five: #2C3989;
-$media-color-six: #AD1457;
-$media-color-seven: #7C0645;
+$media-color-one: #66913E;
+$media-color-two: #FBAD1D;
+$media-color-three: #EF804D;
+$media-color-four: #776AB0;
+$media-color-five: #776AB0;
+$media-color-six: #009197;
+$media-color-seven: #63111C;
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
@@ -238,8 +238,25 @@ $desktop: 960px + (2 * $gap) !default;
 		&:hover{
 			background-color: darken($primary,10%);
 		}
+		p {
+			margin-top: 10px;
+		}
 	}
 }
+
+// Banner font size tweak
+#main-content > section.bp-hero.bg-hero > div > div > div > div > h1 {
+	line-height: 3rem;
+}
+
+#main-content > section.bp-hero.bg-hero > div > div > div > div > h1 > b.is-hidden-touch {
+	font-size: 3.5rem;
+}
+
+#main-content > section.bp-hero.bg-hero > div > div > div > div > h1 > b.is-hidden-desktop {
+	font-size: 3rem;
+}
+
 
 // Navbar
 .navbar{
@@ -366,4 +383,63 @@ $desktop: 960px + (2 * $gap) !default;
   @include touch() {
     width: 100%;
   }
+}
+
+.bg-table-grey {
+    background-color: #F0F4F6;
+}
+
+a.project-link {
+	text-decoration: none;
+}
+
+.project-card {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    margin-top: 0.5rem;
+    background-color: white;
+    height: 1rem;
+    color: #767676;
+}
+
+.project-image {
+    object-fit: cover;
+    height: 230px;
+    width: 100%;
+	}
+
+.project-image.large-thumbnail {
+	height: auto;
+}
+
+.margin--bottom--xs {
+    margin-bottom: 0.25rem !important;
+}
+
+.padding--bottom--sm {
+    padding-bottom: 0.5rem !important;
+}
+
+.project-card h5 {
+    color: #0a0a0a;
+		font-size: 1.3rem;
+}
+
+.no-margin-top {
+  margin-top: 0 !important;
+}
+
+.no-padding-top {
+  padding-top: 0 !important;
+}
+
+a.no-pdf-icon {
+  &:before {
+    content: none;
+  }
+}
+
+body > footer.bp-footer.top-section > div > div:nth-child(3) > div.col.padding--top--sm.padding--bottom--sm.is-right-desktop-only > ul > li:nth-child(1), body > footer.bp-footer.top-section > div > div:nth-child(3) > div.col.padding--top--sm.padding--bottom--sm.is-right-desktop-only > ul > li:nth-child(3) {
+	display: none;
 }
