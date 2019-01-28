@@ -233,7 +233,7 @@ $desktop: 960px + (2 * $gap) !default;
 	.col {
 		border-left:1px solid darken(#ffffff,10%);
 		@include touch(){
-			border-top:1px solid darken($primary,10%);
+			border-top:1px solid darken(#ffffff,10%);
 		}
 		&:hover{
 			background-color: darken($primary,10%);
