@@ -231,7 +231,7 @@ $desktop: 960px + (2 * $gap) !default;
 #key-highlights{
 	background-color: $secondary;
 	.col {
-		border-left:1px solid darken($primary,10%);
+		border-left:1px solid darken(#ffffff,10%);
 		@include touch(){
 			border-top:1px solid darken($primary,10%);
 		}
