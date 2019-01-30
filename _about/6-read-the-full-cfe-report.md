@@ -3,6 +3,7 @@ layout: leftnav-page-content
 permalink: /about/read-the-full-cfe-report/
 breadcrumb: Read the Full CFE Report
 title: Read the Full CFE Report
+description: Read the Full CFE Report
 collection_name: about
 ---
 
