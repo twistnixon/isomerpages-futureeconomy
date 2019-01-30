@@ -53,3 +53,6 @@ resources-title: Media and News
 resources-subtitle: Find out how the Future Economy may affect you.
 resources-more-button: View more
 resources-more-button-url: /media-and-news/
+
+# Favicon
+favicon: /images/favicon.ico

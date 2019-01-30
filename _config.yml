@@ -19,7 +19,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Future Economy Council.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://isomerpages-futureeconomy.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://isomer-futureeconomy-prod.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -102,6 +102,10 @@ homepage_resources: true
 
 # Feedback Form URL
 feedback_form_url: "https://form.sg/#!/forms/govtech/5a9ce876b3a3b6006e6b8335"
+
+# FAQ URL
+faq_url: "/#/"
+faq_url_external: false
 
 # Custom CSS file path
 custom_css_path: "/misc/custom.css"

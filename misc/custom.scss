@@ -10,10 +10,10 @@ $secondary: #214497;
 $secondary-hover: lighten($secondary, 10%);
 
 $media-color-one: #66913E;
-$media-color-two: #B1752A;
+$media-color-two: #009197;
 $media-color-three: #0998B3;
 $media-color-four: #776AB0;
-$media-color-five: #009197;
+$media-color-five: #B1752A;
 $media-color-six: #2A3686;
 $media-color-seven: #0096DB;
 
@@ -205,7 +205,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .bp-section.bp-section-pagetitle {
-  background-color: $primary !important;
+  background-color: $secondary !important;
 }
 
 // Pagination
@@ -229,11 +229,11 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Homepage
 #key-highlights{
-	background-color: $primary;
+	background-color: $secondary;
 	.col {
-		border-left:1px solid darken($primary,10%);
+		border-left:1px solid darken(#ffffff,10%);
 		@include touch(){
-			border-top:1px solid darken($primary,10%);
+			border-top:1px solid darken(#ffffff,10%);
 		}
 		&:hover{
 			background-color: darken($primary,10%);
@@ -440,6 +440,6 @@ a.no-pdf-icon {
   }
 }
 
-body > footer.bp-footer.top-section > div > div:nth-child(3) > div.col.padding--top--sm.padding--bottom--sm.is-right-desktop-only > ul > li:nth-child(1), body > footer.bp-footer.top-section > div > div:nth-child(3) > div.col.padding--top--sm.padding--bottom--sm.is-right-desktop-only > ul > li:nth-child(3) {
+body > footer.bp-footer.top-section > div > div:nth-child(3) > div.col.padding--top--sm.padding--bottom--sm.is-right-desktop-only > ul > li:nth-child(1), body > footer.bp-footer.top-section > div > div:nth-child(3) > div.col.padding--top--sm.padding--bottom--sm.is-right-desktop-only > ul > li:nth-child(3), body > footer.bp-footer.top-section > div > div:nth-child(3) > div.col.padding--top--sm.padding--bottom--sm.is-right-desktop-only > ul > li:nth-child(2) {
 	display: none;
 }

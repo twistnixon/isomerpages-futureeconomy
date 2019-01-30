@@ -8,7 +8,7 @@ collection_name: about
 
 ### The work of the Future Economy Council is supported by six subcommittees, each co-chaired by an office-holder and private sector member(s). Each subcommittee oversees transformation efforts within the same broad cluster of industries. 
 
-View the full list of the members [here](/images/PDF/The-Economic-Clusters/future-economy-sub-committees.pdf){:target="_blank"}.
+[View the full list of the members](/images/PDF/The-Economic-Clusters/future-economy-sub-committees.pdf){:target="_blank"}.
 
 ### **Manufacturing**
 

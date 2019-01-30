@@ -18,7 +18,7 @@ collection_name: about
 6. [Develop and implement Industry Transformation Maps (ITMs)](#develop-and-implement-industry-transformation-maps)
 7. [Partner each other to enable innovation and growth](#partner-each-other-to-enable-innovation-and-growth)
 
-Read the full report [here](/files/the-seven-strategies/MTIS_Full Report.pdf){:target="_blank"}.
+[Read the full report](/files/the-seven-strategies/MTIS_Full Report.pdf){:target="_blank"}.
 
 #### <a id="deepen-and-diversify-international-connections"></a> 1. Deepen and diversify international connections
 
