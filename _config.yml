@@ -15,13 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: Future Economy Council
 title-abbreviated: Future Economy Council
-email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Future Economy Council.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://isomer-futureeconomy-prod.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
 
 # Build settings
 markdown: kramdown
