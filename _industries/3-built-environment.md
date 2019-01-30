@@ -11,7 +11,7 @@ collection_name: industries
 
 		<div class="col is-half-tablet padding--bottom--lg">
 			<a href="/industries/built-environment/construction/" class="project-link">
-	      <img src="/images/industries/built-environment/construction.jpg" alt="Construction" class="project-image">
+	      <img src="/images/industries/built-environment/construction.jpg" alt="Construction" class="project-image" width="" height="">
 	      <div class="project-card">
 	          <div class="project-title margin--bottom--xs">
 	              <h5><b>Construction</b></h5>
@@ -22,7 +22,7 @@ collection_name: industries
 
     <div class="col is-half-tablet padding--bottom--lg">
 			<a href="/industries/built-environment/real-estate/" class="project-link">
-	      <img src="/images/industries/built-environment/real-estate.jpg" alt="Real Estate" class="project-image">
+	      <img src="/images/industries/built-environment/real-estate.jpg" alt="Real Estate" class="project-image" width="" height="">
 	      <div class="project-card">
 	          <div class="project-title margin--bottom--xs">
 	              <h5><b>Real Estate</b></h5>
@@ -33,7 +33,7 @@ collection_name: industries
 
     <div class="col is-half-tablet padding--bottom--lg">
       <a href="/industries/built-environment/environment-services/" class="project-link">
-        <img src="/images/industries/built-environment/environment-services.jpg" alt="Environment Services" class="project-image">
+        <img src="/images/industries/built-environment/environment-services.jpg" alt="Environment Services" class="project-image" width="" height="">
         <div class="project-card">
             <div class="project-title margin--bottom--xs">
                 <h5><b>Environment Services</b></h5>
@@ -44,7 +44,7 @@ collection_name: industries
 
     <div class="col is-half-tablet padding--bottom--lg">
 			<a href="/industries/built-environment/security/" class="project-link">
-	      <img src="/images/industries/built-environment/security.jpg" alt="Security" class="project-image">
+	      <img src="/images/industries/built-environment/security.jpg" alt="Security" class="project-image" width="" height="">
 	      <div class="project-card">
 	          <div class="project-title margin--bottom--xs">
 	              <h5><b>Security</b></h5>
