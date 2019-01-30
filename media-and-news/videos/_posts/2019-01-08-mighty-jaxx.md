@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hear from Jackson Aw, founder of Mighty Jaxx."
+title:  "Mighty Jaxx - How a passion for unique toys grew into an international business"
 date: 2019-01-08
 permalink: "/media-and-news/videos/mighty-jaxx/"
 ---
