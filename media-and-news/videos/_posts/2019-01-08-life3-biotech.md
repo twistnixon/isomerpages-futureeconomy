@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Meet Ricky Lin, founder of Life3 Biotech."
+title:  "Life 3 Biotech - The story behind a plant-based protein for sustainable food nuitrition"
 date: 2019-01-08
 permalink: "/media-and-news/videos/life3-biotech/"
 ---
