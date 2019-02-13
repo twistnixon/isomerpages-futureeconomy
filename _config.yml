@@ -16,9 +16,9 @@
 title: Future Economy Council
 title-abbreviated: Future Economy Council
 description: >- # this means to ignore newlines until "baseurl:"
-  Future Economy Council.
+  The Future Economy Website serves as a comprehensive site for businesses and individuals who are keen to find out more about the Future Economy. Featuring inspiring transformation journeys, and lists support and resources provided by Govt and Partners.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://isomer-futureeconomy-prod.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://futureeconomy.sg" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
