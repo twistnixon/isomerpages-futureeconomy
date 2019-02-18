@@ -31,7 +31,7 @@ collection_name: industries
       </a>
 	  </div>
 
-    <div class="col is-half-tablet padding--bottom--lg">
+   <!-- <div class="col is-half-tablet padding--bottom--lg">
       <a href="#" class="project-link">
         <img src="/images/industries/manufacturing/electronics.jpg" alt="Electronics" class="project-image" width="" height="">
         <div class="project-card">
@@ -62,7 +62,7 @@ collection_name: industries
             </div>
         </div>
       </a>
-    </div>
+    </div> -->
 
     </div>
 </div>
