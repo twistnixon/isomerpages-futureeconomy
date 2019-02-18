@@ -8,7 +8,7 @@ collection_name: lifestyle
 
 ### The Retail industry shapes the character of Singapore and underpins the growth of the tourism industry while contributing to an enhanced quality of life for Singaporeans to live, work and play.
 
-[Retail.pdf](/images/PDF/Lifestyle/Retail.pdf (96kb)){:target="_blank"}
+[Retail.pdf(96kb)](/images/PDF/Lifestyle/Retail.pdf){:target="_blank"}
 
 ---
 
