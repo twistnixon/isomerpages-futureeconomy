@@ -19,7 +19,7 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
 
 <div class="row">
   <div class="col is-3-tablet">
-      <img src="/future-economy-council/images/mary-liew-kiah-eng.jpg" alt="Ms Mary Liew Kiah Eng" class="" />
+      <img src="/images/future-economy-council/mary-liew-kiah-eng.jpg" alt="Ms Mary Liew Kiah Eng" class="" />
   </div>
   <div class="col is-9-tablet">
       <h3>Ms Mary Liew Kiah Eng, 56</h3>
@@ -42,7 +42,7 @@ Elected into the International Labour Organisation’s Governing Body since 2014
 
 <div class="row">
   <div class="col is-3-tablet">
-      <img src="/future-economy-council/images/desmond-choo.jpg" alt="Mr Desmond Choo" class="" />
+      <img src="/images/future-economy-council/desmond-choo.jpg" alt="Mr Desmond Choo" class="" />
   </div>
   <div class="col is-9-tablet">
       <h3>Mr Desmond Choo*, 40, Singaporean </h3>
@@ -65,7 +65,7 @@ Serves on the Board of Directors for Surbana Jurong and is also a committee memb
 
   <div class="row">
     <div class="col is-3-tablet">
-        <img src="/future-economy-council/images/roland-ng.jpg" alt="Mr. Roland Ng" class="" />
+        <img src="/images/future-economy-council/roland-ng.jpg" alt="Mr. Roland Ng" class="" />
     </div>
     <div class="col is-9-tablet">
         <h3> Mr. Roland Ng</h3>
@@ -89,7 +89,7 @@ Managing Director & Group CEO of Tat Hong Holdings Ltd, one of the largest crane
 
   <div class="row">
     <div class="col is-3-tablet">
-        <img src="/future-economy-council/images/teo-siong-seng.png" alt="Mr. Teo Siong Seng" class="">
+        <img src="/images/future-economy-council/teo-siong-seng.png" alt="Mr. Teo Siong Seng" class="">
     </div>
     <div class="col is-9-tablet">
       <h3>Mr. Teo Siong Seng, 64, Singaporean</h3>
@@ -119,7 +119,7 @@ Managing Director & Group CEO of Tat Hong Holdings Ltd, one of the largest crane
 <hr>
   <div class="row">
     <div class="col is-3-tablet">
-          <img src="/future-economy-council/images/robert-yap.png" alt="Dr. Robert Yap" class="">
+          <img src="/images/future-economy-council/robert-yap.png" alt="Dr. Robert Yap" class="">
     </div>
     <div class="col is-9-tablet">
       <h3>Dr. Robert Yap</h3>
@@ -140,7 +140,7 @@ ASEAN Business Advisory Council Chair</strong>
 
   <div class="row">
     <div class="col is-3-tablet">
-          <img src="/future-economy-council/images/subra-suresh.png" alt="Prof. Subra Suresh" class="">
+          <img src="/images/future-economy-council/subra-suresh.png" alt="Prof. Subra Suresh" class="">
     </div>
     <div class="col is-9-tablet">
       <h3>Prof. Subra Suresh*, 62</h3>
@@ -162,7 +162,7 @@ ASEAN Business Advisory Council Chair</strong>
 
   <div class="row">
     <div class="col is-3-tablet">
-          <img src="/future-economy-council/images/tan-eng-chye.jpg" alt="Prof. Tan Eng Chye" class="" />
+          <img src="/images/future-economy-council/tan-eng-chye.jpg" alt="Prof. Tan Eng Chye" class="" />
     </div>
     <div class="col is-9-tablet">
       <h3>Prof. Tan Eng Chye*</h3>
@@ -183,7 +183,7 @@ ASEAN Business Advisory Council Chair</strong>
 
   <div class="row">
     <div class="col is-3-tablet">
-            <img src="/future-economy-council/images/tan-thiam-soon.png" alt="Prof. Tan Thiam Soon" class="">
+            <img src="/images/future-economy-council/tan-thiam-soon.png" alt="Prof. Tan Thiam Soon" class="">
     </div>
     <div class="col is-9-tablet">
       <h3>Prof. Tan Thiam Soon, 62</h3>
@@ -199,7 +199,7 @@ ASEAN Business Advisory Council Chair</strong>
 
   <div class="row">
     <div class="col is-3-tablet">
-          <img src="/future-economy-council/images/clarence-ti.png" alt="Mr. Clarence Ti" class="">
+          <img src="/images/future-economy-council/clarence-ti.png" alt="Mr. Clarence Ti" class="">
     </div>
     <div class="col is-9-tablet">
       <h3>Mr. Clarence Ti, 47</h3>
@@ -215,7 +215,7 @@ ASEAN Business Advisory Council Chair</strong>
 <hr>
   <div class="row">
     <div class="col is-3-tablet">
-          <img src="/future-economy-council/images/azlinda-anwar.jpg" alt="Dr. Azlinda Anwar" class="" />
+          <img src="/images/future-economy-council/azlinda-anwar.jpg" alt="Dr. Azlinda Anwar" class="" />
     </div>
     <div class="col is-9-tablet">
       <h3>Dr. Azlinda Anwar*</h3>
@@ -235,7 +235,7 @@ ASEAN Business Advisory Council Chair</strong>
 
   <div class="row">
     <div class="col is-3-tablet">
-          <img src="/future-economy-council/images/chew-kwee-tiang.jpg" alt="Mrs. Chew Kwee Tiang" class="" />
+          <img src="/images/future-economy-council/chew-kwee-tiang.jpg" alt="Mrs. Chew Kwee Tiang" class="" />
     </div>
     <div class="col is-9-tablet">
       <h3>  Mrs. Chew Kwee Tiang*, 60</h3>
@@ -256,7 +256,7 @@ ASEAN Business Advisory Council Chair</strong>
 
   <div class="row">
     <div class="col is-3-tablet">
-            <img src="/future-economy-council/images/alexander-charles-hungate.png" alt="Mr. Alexander Charles Hungate" class="">
+            <img src="/images/future-economy-council/alexander-charles-hungate.png" alt="Mr. Alexander Charles Hungate" class="">
     </div>
     <div class="col is-9-tablet">
       <h3>  Mr. Alexander Charles Hungate*, 51</h3>
@@ -278,7 +278,7 @@ ASEAN Business Advisory Council Chair</strong>
 
   <div class="row">
     <div class="col is-3-tablet">
-            <img src="/future-economy-council/images/amos-leong.png" alt="Mr. Amos Leong" class="">
+            <img src="/images/future-economy-council/amos-leong.png" alt="Mr. Amos Leong" class="">
     </div>
     <div class="col is-9-tablet">
       <h3>Mr. Amos Leong*, 56</h3>
@@ -297,7 +297,7 @@ ASEAN Business Advisory Council Chair</strong>
 
   <div class="row">
     <div class="col is-3-tablet">
-      <img src="/future-economy-council/images/jamie-lim.jpg" alt="Ms. Jamie Lim" class="" />
+      <img src="/images/future-economy-council/jamie-lim.jpg" alt="Ms. Jamie Lim" class="" />
     </div>
     <div class="col is-9-tablet">
       <h3>Ms. Jamie Lim, 39, Singaporean</h3>
@@ -320,7 +320,7 @@ ASEAN Business Advisory Council Chair</strong>
 
   <div class="row">
     <div class="col is-3-tablet">
-      <img src="/future-economy-council/images/lim-kuo-yi.png" alt="Dr. Lim Kuo-yi" class="">
+      <img src="/images/future-economy-council/lim-kuo-yi.png" alt="Dr. Lim Kuo-yi" class="">
     </div>
     <div class="col is-9-tablet">
       <h3>Dr. Lim Kuo-yi, 49</h3>
@@ -341,7 +341,7 @@ ASEAN Business Advisory Council Chair</strong>
 
   <div class="row">
     <div class="col is-3-tablet">
-      <img src="/future-economy-council/images/lim-ming-yan.png" alt="Mr. Lim Ming Yan" class="">
+      <img src="/images/future-economy-council/lim-ming-yan.png" alt="Mr. Lim Ming Yan" class="">
     </div>
     <div class="col is-9-tablet">
       <h3>  Mr. Lim Ming Yan</h3>
@@ -365,7 +365,7 @@ ASEAN Business Advisory Council Chair</strong>
 
   <div class="row">
     <div class="col is-3-tablet">
-    <img src="/future-economy-council/images/kenneth-loo.png" alt="Mr. Kenneth Loo" class="">
+    <img src="/images/future-economy-council/kenneth-loo.png" alt="Mr. Kenneth Loo" class="">
     </div>
     <div class="col is-9-tablet">
       <h3>Mr. Kenneth Loo, 53, Singapore PR</h3>
@@ -385,7 +385,7 @@ ASEAN Business Advisory Council Chair</strong>
 
   <div class="row">
     <div class="col is-3-tablet">
-    <img src="/future-economy-council/images/dilhan-pillay-sandrasegara.png" alt="Mr. Dilhan Pillay Sandrasegara" class="">
+    <img src="/images/future-economy-council/dilhan-pillay-sandrasegara.png" alt="Mr. Dilhan Pillay Sandrasegara" class="">
     </div>
     <div class="col is-9-tablet">
       <h3>Mr. Dilhan Pillay Sandrasegara, 55</h3>
@@ -416,7 +416,7 @@ ASEAN Business Advisory Council Chair</strong>
 
   <div class="row">
     <div class="col is-3-tablet">
-    <img src="/future-economy-council/images/vincent-tan.png" alt="Mr. Vincent Tan" class="">
+    <img src="/images/future-economy-council/vincent-tan.png" alt="Mr. Vincent Tan" class="">
     </div>
     <div class="col is-9-tablet">
       <h3>  Mr. Vincent Tan, 54, Singaporean</h3>
@@ -437,7 +437,7 @@ ASEAN Business Advisory Council Chair</strong>
 
   <div class="row">
     <div class="col is-3-tablet">
-      <img src="/future-economy-council/images/teo-lay-lim.jpg" alt="Ms. Teo Lay Lim" class="" />
+      <img src="/images/future-economy-council/teo-lay-lim.jpg" alt="Ms. Teo Lay Lim" class="" />
     </div>
     <div class="col is-9-tablet">
       <h3>Ms. Teo Lay Lim*, 55</h3>
@@ -462,7 +462,7 @@ Currently responsible for Accenture’s business across ASEAN and a member of Ac
 
   <div class="row">
     <div class="col is-3-tablet">
-        <img src="/future-economy-council/images/russell-tham.png" alt="Mr. Russell Tham" class="">
+        <img src="/images/future-economy-council/russell-tham.png" alt="Mr. Russell Tham" class="">
     </div>
     <div class="col is-9-tablet">
       <h3>  Mr. Russell Tham, 50</h3>
@@ -482,7 +482,7 @@ Currently responsible for Accenture’s business across ASEAN and a member of Ac
 
   <div class="row">
     <div class="col is-3-tablet">
-          <img src="/future-economy-council/images/olive-tonby.jpg" alt="Mr. Oliver Tonby" class="" />
+          <img src="/images/future-economy-council/olive-tonby.jpg" alt="Mr. Oliver Tonby" class="" />
     </div>
     <div class="col is-9-tablet">
       <h3>Mr. Oliver Tonby</h3>
@@ -507,7 +507,7 @@ Core leader of McKinsey’s Digital Capability Centre (DCC) in Singapore, an Ind
 
   <div class="row">
     <div class="col is-3-tablet">
-          <img src="/future-economy-council/images/wahab-yusoff.png" alt="Mr. Vincent Tan" class="">
+          <img src="/images/future-economy-council/wahab-yusoff.png" alt="Mr. Vincent Tan" class="">
     </div>
     <div class="col is-9-tablet">
       <h3>Wahab Yusoff*</h3>
