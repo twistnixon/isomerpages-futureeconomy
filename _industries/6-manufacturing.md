@@ -32,30 +32,36 @@ collection_name: industries
 	  </div>
 
     <div class="col is-half-tablet padding--bottom--lg">
+    <a href="/images/PDF/Manufacturing/Electronics.pdf" class="project-link" target="_blank">
         <img src="/images/industries/manufacturing/electronics.jpg" alt="Electronics" class="project-image" width="" height="">
         <div class="project-card">
             <div class="project-title margin--bottom--xs">
                 <h5><b>Electronics</b></h5>
             </div>
         </div>
+	</a>
     </div>
 
     <div class="col is-half-tablet padding--bottom--lg">
+    <a href="/images/PDF/Manufacturing/Energy-and-Chemicals.pdf" class="project-link" target="_blank">
         <img src="/images/industries/manufacturing/energy-chemicals.jpg" alt="Energy & Chemicals" class="project-image" width="" height="">
         <div class="project-card">
             <div class="project-title margin--bottom--xs">
                 <h5><b>Energy & Chemicals</b></h5>
             </div>
         </div>
+	</a>
     </div>
 
-    <div class="col is-half-tablet padding--bottom--lg">
+    <div class="col is-half-tablet padding--bottom--lg"> 
+    <a href="/images/PDF/Manufacturing/Energy-and-Chemicals.pdf" class="project-link" target="_blank">
         <img src="/images/industries/manufacturing/marine-offshore.jpg" alt="Marine & Offshore" class="project-image" width="" height="">
         <div class="project-card">
             <div class="project-title margin--bottom--xs">
                 <h5><b>Marine & Offshore</b></h5>
             </div>
         </div>
+	</a>
     </div> 
 
     </div>
