@@ -14,17 +14,28 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
 
 ### **Members of the Future Economy Council (FEC)**
 
-<div>
-  <div class="row is-multiline">
+<div class="padding--top">
+  <div class="row">
     <div class="col is-2-tablet">
         <img src="https://via.placeholder.com/119x177" alt="Mr. Roland Ng" class="" />
     </div>
     <div class="col is-10-tablet">
-    <h3> Mr. Roland Ng</h3>
         <p>
+        <h3> Mr. Roland Ng</h3>
             Chairman, Singapore Chinese Chamber of Commerce & Industry (SCCCI) & Managing Director and Group CEO of Tat Hong Holdings
         </p>
     </div>
-    ---
+  </div>
+
+  <div class="row">
+    <div class="col is-2-tablet">
+        <img src="https://via.placeholder.com/119x177" alt="Mr. Roland Ng" class="" />
+    </div>
+    <div class="col is-10-tablet">
+        <p>
+        <h3> Mr. Roland Ng</h3>
+            Chairman, Singapore Chinese Chamber of Commerce & Industry (SCCCI) & Managing Director and Group CEO of Tat Hong Holdings
+        </p>
+    </div>
   </div>
 </div>
