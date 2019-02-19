@@ -6,7 +6,7 @@ breadcrumb: Lifestyle
 collection_name: industries
 ---
 
-<div>
+<div class="padding--top">
 	<div class="row is-multiline">
 
 		<div class="col is-half-tablet padding--bottom--lg">

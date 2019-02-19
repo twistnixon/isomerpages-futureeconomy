@@ -20,10 +20,11 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
         <img src="https://via.placeholder.com/119x177" alt="Mr. Roland Ng" class="" />
     </div>
     <div class="col is-10-tablet">
-        <strong>
-            Mr. Roland Ng<br/>
+    <h3> Mr. Roland Ng</h3>
+        <p>
             Chairman, Singapore Chinese Chamber of Commerce & Industry (SCCCI) & Managing Director and Group CEO of Tat Hong Holdings
-        </strong>
+        </p>
     </div>
+    ---
   </div>
 </div>
