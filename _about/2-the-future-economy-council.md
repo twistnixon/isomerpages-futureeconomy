@@ -23,10 +23,10 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
   </div>
   <div class="col is-9-tablet">
       <h3>Ms Mary Liew Kiah Eng, 56</h3>
-      <p><strong>President, National Trades Union Congress</p>
+      <p><strong>President, National Trades Union Congress</strong></p>
       <ul>
         <li>Appointed as the first female Executive Secretary of Singapore Maritime Officers’ Union in 1999 and subsequently elected as its first female General Secretary in 2013.
-</li><<li>
+</li><li>
 Represents NTUC in various national bodies such as the Central Provident Fund (CPF) and National Wages Council.</li>
 <li>
 First woman from South East Asia to be elected into the International Transport Workers’ Federation Executive Board representing the Asia Pacific region in 2010, and was re-elected in 2014.</li>
@@ -46,10 +46,10 @@ Elected into the International Labour Organisation’s Governing Body since 2014
   </div>
   <div class="col is-9-tablet">
       <h3>Mr Desmond Choo*, 40, Singaporean </h3>
-      <p><strong>Assistant Secretary-General, National Trades Union Congress, Mayor of North East District and Member of Parliament for Tampines GRC </p>
+      <p><strong>Assistant Secretary-General, National Trades Union Congress, Mayor of North East District and Member of Parliament for Tampines GRC</strong> </p>
       <ul>
         <li>Currently the Assistant Secretary-General at National Trades Union Congress (NTUC), holding two key portfolios as Director of the Youth Development Unit at NTUC, advocating young workers’ issues for Singapore’s largest youth movement and Director at the Industrial Relations Department, driving industry transformation and productivity.
-</li><<li>
+</li><li>
 Appointed Mayor of North East District overseeing social and community development for 18 constituencies.</li>
 <li>
 Serves on the Board of Directors for Surbana Jurong and is also a committee member of the Global Compact Network Singapore’s Management Committee.</li>
