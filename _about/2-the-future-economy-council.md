@@ -14,7 +14,7 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
 
 ### **Members of the Future Economy Council (FEC)**
 
-<div class="padding--top">
+<div class="padding--top" id="economy-council">
   <div class="row">
     <div class="col is-2-tablet">
         <img src="https://via.placeholder.com/119x177" alt="Mr. Roland Ng" class="" />
