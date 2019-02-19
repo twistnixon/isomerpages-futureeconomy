@@ -17,20 +17,20 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
 <div class="padding--top" id="economy-council">
 
   <div class="row">
-    <div class="col is-2-tablet">
+    <div class="col is-3-tablet">
         <img src="https://via.placeholder.com/119x177" alt="Mr. Roland Ng" class="" />
     </div>
-    <div class="col is-10-tablet">
+    <div class="col is-9-tablet">
         <h3> Mr. Roland Ng</h3>
         <p><strong>Chairman, Singapore Chinese Chamber of Commerce & Industry (SCCCI) & Managing Director and Group CEO of Tat Hong Holdings</strong></p>
     </div>
   </div>
 
   <div class="row">
-    <div class="col is-2-tablet">
+    <div class="col is-3-tablet">
         <img src="/images/teo-siong-seng.png" alt="Mr. Teo Siong Seng" class="">
     </div>
-    <div class="col is-10-tablet">
+    <div class="col is-9-tablet">
       <h3>Mr. Teo Siong Seng, 64, Singaporean</h3>
       <p><strong>Executive Chairman/Managing Director of Pacific International Lines (Pte) Ltd
       </strong>
@@ -57,10 +57,10 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
 
 
   <div class="row">
-    <div class="col is-2-tablet">
+    <div class="col is-3-tablet">
           <img src="/images/robert-yap.png" alt="Dr. Robert Yap" class="">
     </div>
-    <div class="col is-10-tablet">
+    <div class="col is-9-tablet">
       <h3>Dr. Robert Yap</h3>
       <p>
       <strong>
@@ -78,10 +78,10 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
 
 
   <div class="row">
-    <div class="col is-2-tablet">
+    <div class="col is-3-tablet">
           <img src="/images/subra-suresh.png" alt="Prof. Subra Suresh" class="">
     </div>
-    <div class="col is-10-tablet">
+    <div class="col is-9-tablet">
       <h3>Prof. Subra Suresh, 62</h3>
       <p>
       <strong>
@@ -100,10 +100,10 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
 
 
   <div class="row">
-    <div class="col is-2-tablet">
+    <div class="col is-3-tablet">
           <img src="https://via.placeholder.com/119x177" alt="Prof. Tan Eng Chye" class="" />
     </div>
-    <div class="col is-10-tablet">
+    <div class="col is-9-tablet">
       <h3>Prof. Tan Eng Chye</h3>
       <p>
       <strong>
@@ -121,10 +121,10 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
 
 
   <div class="row">
-    <div class="col is-2-tablet">
+    <div class="col is-3-tablet">
             <img src="/images/tan-thiam-soon.png" alt="Prof. Tan Eng Chye" class="">
     </div>
-    <div class="col is-10-tablet">
+    <div class="col is-9-tablet">
       <h3>Prof. Tan Thiam Soon, 62</h3>
       <p>
       <strong>
@@ -137,10 +137,10 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
 
 
   <div class="row">
-    <div class="col is-2-tablet">
+    <div class="col is-3-tablet">
           <img src="/images/clarence-ti.png" alt="Mr. Clarence Ti" class="">
     </div>
-    <div class="col is-10-tablet">
+    <div class="col is-9-tablet">
       <h3>Mr. Clarence Ti, 47</h3>
       <p>
       <strong>
@@ -153,10 +153,10 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
   </div>
 
   <div class="row">
-    <div class="col is-2-tablet">
+    <div class="col is-3-tablet">
           <img src="https://via.placeholder.com/119x177" alt="Dr. Azlinda Anwar" class="" />
     </div>
-    <div class="col is-10-tablet">
+    <div class="col is-9-tablet">
       <h3>Dr. Azlinda Anwar</h3>
       <p>
       <strong>
@@ -167,10 +167,10 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
 
 
   <div class="row">
-    <div class="col is-2-tablet">
+    <div class="col is-3-tablet">
           <img src="https://via.placeholder.com/119x177" alt="Mrs. Chew Kwee Tiang" class="" />
     </div>
-    <div class="col is-10-tablet">
+    <div class="col is-9-tablet">
       <h3>  Mrs. Chew Kwee Tiang</h3>
       <p>
       <strong>
@@ -182,10 +182,10 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
 
 
   <div class="row">
-    <div class="col is-2-tablet">
+    <div class="col is-3-tablet">
             <img src="/images/alexander-charles-hungate.png" alt="Mr. Alexander Charles Hungate" class="">
     </div>
-    <div class="col is-10-tablet">
+    <div class="col is-9-tablet">
       <h3>  Mr. Alexander Charles Hungate, 51</h3>
       <p>
       <strong>
@@ -204,10 +204,10 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
 
 
   <div class="row">
-    <div class="col is-2-tablet">
+    <div class="col is-3-tablet">
             <img src="/images/amos-leong.png" alt="Mr. Amos Leong" class="">
     </div>
-    <div class="col is-10-tablet">
+    <div class="col is-9-tablet">
       <h3>Mr. Amos Leong, 56</h3>
       <p>
       <strong>
@@ -223,10 +223,10 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
 
 
   <div class="row">
-    <div class="col is-2-tablet">
+    <div class="col is-3-tablet">
       <img src="https://via.placeholder.com/119x177" alt="Ms. Jamie Lim" class="" />
     </div>
-    <div class="col is-10-tablet">
+    <div class="col is-9-tablet">
       <h3>Ms. Jamie Lim</h3>
       <p>
       <strong>
@@ -240,10 +240,10 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
 
 
   <div class="row">
-    <div class="col is-2-tablet">
+    <div class="col is-3-tablet">
       <img src="/images/lim-kuo-yi.png" alt="Dr. Lim Kuo-yi" class="">
     </div>
-    <div class="col is-10-tablet">
+    <div class="col is-9-tablet">
       <h3>Dr. Lim Kuo-yi, 49</h3>
       <p>
       <strong>
@@ -259,10 +259,10 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
 
 
   <div class="row">
-    <div class="col is-2-tablet">
+    <div class="col is-3-tablet">
       <img src="/images/lim-ming-yan.png" alt="Mr. Lim Ming Yan" class="">
     </div>
-    <div class="col is-10-tablet">
+    <div class="col is-9-tablet">
       <h3>  Mr. Lim Ming Yan</h3>
       <p>
       <strong>
@@ -279,10 +279,10 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
 
 
   <div class="row">
-    <div class="col is-2-tablet">
+    <div class="col is-3-tablet">
     <img src="/images/kenneth-loo.png" alt="Mr. Kenneth Loo" class="">
     </div>
-    <div class="col is-10-tablet">
+    <div class="col is-9-tablet">
       <h3>Mr. Kenneth Loo, 53, Singapore PR</h3>
       <p>
       <strong>
@@ -299,10 +299,10 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
 
 
   <div class="row">
-    <div class="col is-2-tablet">
+    <div class="col is-3-tablet">
     <img src="/images/dilhan-pillay-sandrasegara.png" alt="Mr. Lim Ming Yan" class="">
     </div>
-    <div class="col is-10-tablet">
+    <div class="col is-9-tablet">
       <h3>Mr. Dilhan Pillay Sandrasegara, 55</h3>
       <p>
       <strong>
@@ -315,10 +315,10 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
 
 
   <div class="row">
-    <div class="col is-2-tablet">
+    <div class="col is-3-tablet">
     <img src="https://via.placeholder.com/119x177" alt="Mr. Andreas Sohmen-Pao" class="" />
     </div>
-    <div class="col is-10-tablet">
+    <div class="col is-9-tablet">
       <h3>Mr. Andreas Sohmen-Pao</h3>
       <p>
       <strong>
@@ -330,10 +330,10 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
 
 
   <div class="row">
-    <div class="col is-2-tablet">
+    <div class="col is-3-tablet">
     <img src="/images/vincent-tan.png" alt="Mr. Vincent Tan" class="">
     </div>
-    <div class="col is-10-tablet">
+    <div class="col is-9-tablet">
       <h3>  Mr. Vincent Tan, 54, Singaporean</h3>
       <p>
       <strong>
@@ -351,10 +351,10 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
 
 
   <div class="row">
-    <div class="col is-2-tablet">
+    <div class="col is-3-tablet">
       <img src="https://via.placeholder.com/119x177" alt="Ms. Teo Lay Lim" class="" />
     </div>
-    <div class="col is-10-tablet">
+    <div class="col is-9-tablet">
       <h3>Ms. Teo Lay Lim</h3>
       <p>
       <strong>
@@ -366,10 +366,10 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
 
 
   <div class="row">
-    <div class="col is-2-tablet">
+    <div class="col is-3-tablet">
         <img src="/images/russell-tham.png" alt="Mr. Russell Tham" class="">
     </div>
-    <div class="col is-10-tablet">
+    <div class="col is-9-tablet">
       <h3>  Mr. Russell Tham, 50</h3>
       <p>
       <strong>
@@ -384,10 +384,10 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
 
 
   <div class="row">
-    <div class="col is-2-tablet">
+    <div class="col is-3-tablet">
           <img src="https://via.placeholder.com/119x177" alt="Mr. Oliver Tonby" class="" />
     </div>
-    <div class="col is-10-tablet">
+    <div class="col is-9-tablet">
       <h3>Mr. Oliver Tonby</h3>
       <p>
       <strong>
@@ -399,10 +399,10 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
 
 
   <div class="row">
-    <div class="col is-2-tablet">
+    <div class="col is-3-tablet">
           <img src="/images/wahab-yusoff.png" alt="Mr. Vincent Tan" class="">
     </div>
-    <div class="col is-10-tablet">
+    <div class="col is-9-tablet">
       <h3>Wahab Yusoff</h3>
       <p>
       <strong>
