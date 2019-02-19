@@ -482,7 +482,7 @@ Currently responsible for Accenture’s business across ASEAN and a member of Ac
 
   <div class="row">
     <div class="col is-3-tablet">
-          <img src="/images/future-economy-council/olive-tonby.jpg" alt="Mr. Oliver Tonby" class="" />
+          <img src="/images/future-economy-council/oliver-tonby.jpg" alt="Mr. Oliver Tonby" class="" />
     </div>
     <div class="col is-9-tablet">
       <h3>Mr. Oliver Tonby</h3>
