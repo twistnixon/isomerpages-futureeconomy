@@ -249,6 +249,9 @@ $desktop: 960px + (2 * $gap) !default;
 	p {
 		margin-top: 0;
 	}
+	hr {
+		margin: 2rem 0;
+	}
 }
 
 // Banner font size tweak

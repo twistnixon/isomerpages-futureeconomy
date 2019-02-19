@@ -26,6 +26,8 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
     </div>
   </div>
 
+  <hr>
+
   <div class="row">
     <div class="col is-3-tablet">
         <img src="/images/teo-siong-seng.png" alt="Mr. Teo Siong Seng" class="">
@@ -55,7 +57,7 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
     </div>
   </div>
 
-
+<hr>
   <div class="row">
     <div class="col is-3-tablet">
           <img src="/images/robert-yap.png" alt="Dr. Robert Yap" class="">
@@ -75,7 +77,7 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
       </p>
     </div>
   </div>
-
+<hr>
 
   <div class="row">
     <div class="col is-3-tablet">
@@ -96,7 +98,7 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
       </p>
     </div>
   </div>
-
+<hr>
 
 
   <div class="row">
@@ -118,7 +120,7 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
       </p>
     </div>
   </div>
-
+<hr>
 
   <div class="row">
     <div class="col is-3-tablet">
@@ -134,7 +136,7 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
       <p>Previously, served on ASPIRE and SkillsFuture Council. A member of the Board of SkillsFuture Singapore and the Land Transport Authority. Awarded Singapore’s Public Administration Medal, Silver (2008) and Gold (2017). Professional Engineer (Geotechnical).</p>
     </div>
   </div>
-
+<hr>
 
   <div class="row">
     <div class="col is-3-tablet">
@@ -151,7 +153,7 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
       <p>Board member, Action Community for Entrepreneurship and Board member, School of Science and Technology.</p>
     </div>
   </div>
-
+<hr>
   <div class="row">
     <div class="col is-3-tablet">
           <img src="https://via.placeholder.com/119x177" alt="Dr. Azlinda Anwar" class="" />
@@ -164,7 +166,7 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
       </strong></p>
     </div>
   </div>
-
+<hr>
 
   <div class="row">
     <div class="col is-3-tablet">
@@ -178,7 +180,7 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
       </strong></p>
     </div>
   </div>
-
+<hr>
 
 
   <div class="row">
@@ -200,7 +202,7 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
       </p>
     </div>
   </div>
-
+<hr>
 
 
   <div class="row">
@@ -220,7 +222,7 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
       </p>
     </div>
   </div>
-
+<hr>
 
   <div class="row">
     <div class="col is-3-tablet">
@@ -236,7 +238,7 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
     </div>
   </div>
 
-
+<hr>
 
 
   <div class="row">
@@ -256,7 +258,7 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
       <p>Kuo-Yi graduated from MIT with the bachelor, master’s and doctorate degrees in electrical engineering and he is also a board member of Health Promotion Board and Intellectual Property Office of Singapore.</p>
     </div>
   </div>
-
+<hr>
 
   <div class="row">
     <div class="col is-3-tablet">
@@ -275,7 +277,7 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
       <p>Named Outstanding Chief Executive (Overseas) at the Singapore Business Awards 2006 and was also conferred the prestigious Magnolia Award by the Shanghai Municipal Government in 2003 and 2005 for his significant contributions to Shanghai.</p>
     </div>
   </div>
-
+<hr>
 
 
   <div class="row">
@@ -296,7 +298,7 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
       </p>
     </div>
   </div>
-
+<hr>
 
   <div class="row">
     <div class="col is-3-tablet">
@@ -312,7 +314,7 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
         <p>Joined Temasek in 2010. Previously Managing Partner of WongPartnership LLP. Member of Financial Centre Advisory Panel, Monetary Authority of Singapore. Board Member of Enterprise Singapore, National Research Foundation, Singapore Management University and Singapore Innovate Pte. Ltd. </p>
     </div>
   </div>
-
+<hr>
 
   <div class="row">
     <div class="col is-3-tablet">
@@ -327,7 +329,7 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
       </p>
     </div>
   </div>
-
+<hr>
 
   <div class="row">
     <div class="col is-3-tablet">
@@ -348,7 +350,7 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
       </p>
     </div>
   </div>
-
+<hr>
 
   <div class="row">
     <div class="col is-3-tablet">
@@ -363,7 +365,7 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
       </p>
     </div>
   </div>
-
+<hr>
 
   <div class="row">
     <div class="col is-3-tablet">
@@ -381,7 +383,7 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
       <p>Serves on the board of Singapore’s Energy Market Authority, Temasek Polytechnic and National University of Singapore’s Faculty of Engineering. Served on the Committee of Future Economy, CFE in 2016. Conferred the Public Service Medal in 2017.</p>
     </div>
   </div>
-
+<hr>
 
   <div class="row">
     <div class="col is-3-tablet">
@@ -396,7 +398,7 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
       </p>
     </div>
   </div>
-
+<hr>
 
   <div class="row">
     <div class="col is-3-tablet">
