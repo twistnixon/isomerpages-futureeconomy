@@ -36,7 +36,7 @@ collection_name: industries
         <img src="/images/industries/manufacturing/electronics.jpg" alt="Electronics" class="project-image" width="" height="">
         <div class="project-card">
             <div class="project-title margin--bottom--xs">
-                <h5><b>Electronics</b></h5>
+                <h5><b>Electronics (82kb)</b></h5>
             </div>
         </div>
 	</a>
@@ -47,7 +47,7 @@ collection_name: industries
         <img src="/images/industries/manufacturing/energy-chemicals.jpg" alt="Energy & Chemicals" class="project-image" width="" height="">
         <div class="project-card">
             <div class="project-title margin--bottom--xs">
-                <h5><b>Energy & Chemicals</b></h5>
+                <h5><b>Energy & Chemicals (79kb)</b></h5>
             </div>
         </div>
 	</a>
@@ -58,7 +58,7 @@ collection_name: industries
         <img src="/images/industries/manufacturing/marine-offshore.jpg" alt="Marine & Offshore" class="project-image" width="" height="">
         <div class="project-card">
             <div class="project-title margin--bottom--xs">
-                <h5><b>Marine & Offshore</b></h5>
+                <h5><b>Marine & Offshore (80kb)</b></h5>
             </div>
         </div>
 	</a>
