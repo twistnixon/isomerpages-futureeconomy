@@ -22,7 +22,7 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
       <img src="/images/future-economy-council/mary-liew-kiah-eng.jpg" alt="Ms Mary Liew Kiah Eng" class="" />
   </div>
   <div class="col is-9-tablet">
-      <h3>Ms Mary Liew Kiah Eng, 56</h3>
+      <h3>Ms Mary Liew Kiah Eng</h3>
       <p><strong>President, National Trades Union Congress</strong></p>
       <ul>
         <li>Appointed as the first female Executive Secretary of Singapore Maritime Officers’ Union in 1999 and subsequently elected as its first female General Secretary in 2013.
@@ -45,7 +45,7 @@ Elected into the International Labour Organisation’s Governing Body since 2014
       <img src="/images/future-economy-council/desmond-choo.jpg" alt="Mr Desmond Choo" class="" />
   </div>
   <div class="col is-9-tablet">
-      <h3>Mr Desmond Choo*, 40, Singaporean </h3>
+      <h3>Mr Desmond Choo*</h3>
       <p><strong>Assistant Secretary-General, National Trades Union Congress, Mayor of North East District and Member of Parliament for Tampines GRC</strong> </p>
       <ul>
         <li>Currently the Assistant Secretary-General at National Trades Union Congress (NTUC), holding two key portfolios as Director of the Youth Development Unit at NTUC, advocating young workers’ issues for Singapore’s largest youth movement and Director at the Industrial Relations Department, driving industry transformation and productivity.
@@ -92,7 +92,7 @@ Managing Director & Group CEO of Tat Hong Holdings Ltd, one of the largest crane
         <img src="/images/future-economy-council/teo-siong-seng.png" alt="Mr. Teo Siong Seng" class="">
     </div>
     <div class="col is-9-tablet">
-      <h3>Mr. Teo Siong Seng, 64, Singaporean</h3>
+      <h3>Mr. Teo Siong Seng</h3>
       <p><strong>Executive Chairman/Managing Director of Pacific International Lines (Pte) Ltd
       </strong>
       <ul>
@@ -143,7 +143,7 @@ ASEAN Business Advisory Council Chair</strong>
           <img src="/images/future-economy-council/subra-suresh.png" alt="Prof. Subra Suresh" class="">
     </div>
     <div class="col is-9-tablet">
-      <h3>Prof. Subra Suresh*, 62</h3>
+      <h3>Prof. Subra Suresh*</h3>
       <p>
       <strong>
       President, Nanyang Technological University, Singapore
@@ -186,7 +186,7 @@ ASEAN Business Advisory Council Chair</strong>
             <img src="/images/future-economy-council/tan-thiam-soon.png" alt="Prof. Tan Thiam Soon" class="">
     </div>
     <div class="col is-9-tablet">
-      <h3>Prof. Tan Thiam Soon, 62</h3>
+      <h3>Prof. Tan Thiam Soon</h3>
       <p>
       <strong>
       President, Singapore Institute of Technology
@@ -202,7 +202,7 @@ ASEAN Business Advisory Council Chair</strong>
           <img src="/images/future-economy-council/clarence-ti.png" alt="Mr. Clarence Ti" class="">
     </div>
     <div class="col is-9-tablet">
-      <h3>Mr. Clarence Ti, 47</h3>
+      <h3>Mr. Clarence Ti</h3>
       <p>
       <strong>
     Principal, Ngee Ann Polytechnic
@@ -238,7 +238,7 @@ ASEAN Business Advisory Council Chair</strong>
           <img src="/images/future-economy-council/chew-kwee-tiang.jpg" alt="Mrs. Chew Kwee Tiang" class="" />
     </div>
     <div class="col is-9-tablet">
-      <h3>  Mrs. Chew Kwee Tiang*, 60</h3>
+      <h3>  Mrs. Chew Kwee Tiang*</h3>
       <p>
       <strong>
         Chief Executive Officer of Khoo Teck Puat Hospital and Yishun Health
@@ -259,7 +259,7 @@ ASEAN Business Advisory Council Chair</strong>
             <img src="/images/future-economy-council/alexander-charles-hungate.png" alt="Mr. Alexander Charles Hungate" class="">
     </div>
     <div class="col is-9-tablet">
-      <h3>  Mr. Alexander Charles Hungate*, 51</h3>
+      <h3>  Mr. Alexander Charles Hungate*</h3>
       <p>
       <strong>
         President and CEO, SATS Ltd.
@@ -281,7 +281,7 @@ ASEAN Business Advisory Council Chair</strong>
             <img src="/images/future-economy-council/amos-leong.png" alt="Mr. Amos Leong" class="">
     </div>
     <div class="col is-9-tablet">
-      <h3>Mr. Amos Leong*, 56</h3>
+      <h3>Mr. Amos Leong*</h3>
       <p>
       <strong>
         President & CEO, Univac Group
@@ -300,7 +300,7 @@ ASEAN Business Advisory Council Chair</strong>
       <img src="/images/future-economy-council/jamie-lim.jpg" alt="Ms. Jamie Lim" class="" />
     </div>
     <div class="col is-9-tablet">
-      <h3>Ms. Jamie Lim, 39, Singaporean</h3>
+      <h3>Ms. Jamie Lim</h3>
       <p>
       <strong>
           Regional Marketing Director, Scanteak
@@ -323,7 +323,7 @@ ASEAN Business Advisory Council Chair</strong>
       <img src="/images/future-economy-council/lim-kuo-yi.png" alt="Dr. Lim Kuo-yi" class="">
     </div>
     <div class="col is-9-tablet">
-      <h3>Dr. Lim Kuo-yi, 49</h3>
+      <h3>Dr. Lim Kuo-yi</h3>
       <p>
       <strong>
           Managing Partner, Monk's Hill Ventures
@@ -368,7 +368,7 @@ ASEAN Business Advisory Council Chair</strong>
     <img src="/images/future-economy-council/kenneth-loo.png" alt="Mr. Kenneth Loo" class="">
     </div>
     <div class="col is-9-tablet">
-      <h3>Mr. Kenneth Loo, 53, Singapore PR</h3>
+      <h3>Mr. Kenneth Loo</h3>
       <p>
       <strong>
         Chief Operating Officer and Executive Director, Straits Construction Group
@@ -388,7 +388,7 @@ ASEAN Business Advisory Council Chair</strong>
     <img src="/images/future-economy-council/dilhan-pillay-sandrasegara.png" alt="Mr. Dilhan Pillay Sandrasegara" class="">
     </div>
     <div class="col is-9-tablet">
-      <h3>Mr. Dilhan Pillay Sandrasegara, 55</h3>
+      <h3>Mr. Dilhan Pillay Sandrasegara</h3>
       <p>
       <strong>
         Deputy CEO, Temasek International Pte Ltd
@@ -407,8 +407,14 @@ ASEAN Business Advisory Council Chair</strong>
       <h3>Mr. Andreas Sohmen-Pao*</h3>
       <p>
       <strong>
-        Chairman, BW Group
+        Executive Chairman, BW Group
       </strong>
+      <ul>
+        <li>Chairman of BW Offshore, BW LPG and Hafnia Tankers</li>
+        <li>Chairman of Singapore Maritime Foundation</li>
+        <li>As CEO of BW, developed the company into a global maritime group in oil and gas production and shipping</li>
+        <li>Serves on the boards of NParks, Singapore Symphony Orchestra and as a trustee of the Lloyd’s Register Foundation</li>
+      </ul>
       </p>
     </div>
   </div>
@@ -419,7 +425,7 @@ ASEAN Business Advisory Council Chair</strong>
     <img src="/images/future-economy-council/vincent-tan.png" alt="Mr. Vincent Tan" class="">
     </div>
     <div class="col is-9-tablet">
-      <h3>  Mr. Vincent Tan, 54, Singaporean</h3>
+      <h3>  Mr. Vincent Tan</h3>
       <p>
       <strong>
         Managing Director, Select Group Pte Ltd
@@ -440,7 +446,7 @@ ASEAN Business Advisory Council Chair</strong>
       <img src="/images/future-economy-council/teo-lay-lim.jpg" alt="Ms. Teo Lay Lim" class="" />
     </div>
     <div class="col is-9-tablet">
-      <h3>Ms. Teo Lay Lim*, 55</h3>
+      <h3>Ms. Teo Lay Lim*</h3>
       <p>
       <strong>
           Senior Managing Director, Accenture
@@ -465,7 +471,7 @@ Currently responsible for Accenture’s business across ASEAN and a member of Ac
         <img src="/images/future-economy-council/russell-tham.png" alt="Mr. Russell Tham" class="">
     </div>
     <div class="col is-9-tablet">
-      <h3>  Mr. Russell Tham, 50</h3>
+      <h3>  Mr. Russell Tham</h3>
       <p>
       <strong>
         President, New Enterprises & Ventures
