@@ -546,6 +546,6 @@ Core leader of McKinsey’s Digital Capability Centre (DCC) in Singapore, an Ind
     </div>
   </div>
 <hr>
-<h3><i>*New member</i></h3>
+<h5><i>*New member</i></h5>
 
 </div>
