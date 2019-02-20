@@ -19,7 +19,7 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
 
 <div class="row">
   <div class="col is-3-tablet">
-      <img src="/images/future-economy-council/mary-liew-kiah-eng.jpg" alt="Ms Mary Liew Kiah Eng" class="" />
+      <img src="/images/future-economy-council/mary-liew-kiah-eng.png" alt="Ms Mary Liew Kiah Eng" class="" />
   </div>
   <div class="col is-9-tablet">
       <h3>Ms Mary Liew Kiah Eng</h3>
@@ -42,7 +42,7 @@ Elected into the International Labour Organisation’s Governing Body since 2014
 
 <div class="row">
   <div class="col is-3-tablet">
-      <img src="/images/future-economy-council/desmond-choo.jpg" alt="Mr Desmond Choo" class="" />
+      <img src="/images/future-economy-council/desmond-choo.png" alt="Mr Desmond Choo" class="" />
   </div>
   <div class="col is-9-tablet">
       <h3>Mr Desmond Choo*</h3>
@@ -65,7 +65,7 @@ Serves on the Board of Directors for Surbana Jurong and is also a committee memb
 
   <div class="row">
     <div class="col is-3-tablet">
-        <img src="/images/future-economy-council/roland-ng.jpg" alt="Mr. Roland Ng" class="" />
+        <img src="/images/future-economy-council/roland-ng.png" alt="Mr. Roland Ng" class="" />
     </div>
     <div class="col is-9-tablet">
         <h3> Mr. Roland Ng</h3>
@@ -162,7 +162,7 @@ ASEAN Business Advisory Council Chair</strong>
 
   <div class="row">
     <div class="col is-3-tablet">
-          <img src="/images/future-economy-council/tan-eng-chye.jpg" alt="Prof. Tan Eng Chye" class="" />
+          <img src="/images/future-economy-council/tan-eng-chye.png" alt="Prof. Tan Eng Chye" class="" />
     </div>
     <div class="col is-9-tablet">
       <h3>Prof. Tan Eng Chye*</h3>
@@ -215,7 +215,7 @@ ASEAN Business Advisory Council Chair</strong>
 <hr>
   <div class="row">
     <div class="col is-3-tablet">
-          <img src="/images/future-economy-council/azlinda-anwar.jpg" alt="Dr. Azlinda Anwar" class="" />
+          <img src="/images/future-economy-council/azlinda-anwar.png" alt="Dr. Azlinda Anwar" class="" />
     </div>
     <div class="col is-9-tablet">
       <h3>Dr. Azlinda Anwar*</h3>
@@ -235,7 +235,7 @@ ASEAN Business Advisory Council Chair</strong>
 
   <div class="row">
     <div class="col is-3-tablet">
-          <img src="/images/future-economy-council/chew-kwee-tiang.jpg" alt="Mrs. Chew Kwee Tiang" class="" />
+          <img src="/images/future-economy-council/chew-kwee-tiang.png" alt="Mrs. Chew Kwee Tiang" class="" />
     </div>
     <div class="col is-9-tablet">
       <h3>  Mrs. Chew Kwee Tiang*</h3>
@@ -297,7 +297,7 @@ ASEAN Business Advisory Council Chair</strong>
 
   <div class="row">
     <div class="col is-3-tablet">
-      <img src="/images/future-economy-council/jamie-lim.jpg" alt="Ms. Jamie Lim" class="" />
+      <img src="/images/future-economy-council/jamie-lim.png" alt="Ms. Jamie Lim" class="" />
     </div>
     <div class="col is-9-tablet">
       <h3>Ms. Jamie Lim</h3>
@@ -401,7 +401,7 @@ ASEAN Business Advisory Council Chair</strong>
 
   <div class="row">
     <div class="col is-3-tablet">
-    <img src="https://via.placeholder.com/119x177" alt="Mr. Andreas Sohmen-Pao" class="" />
+    <img src="/images/future-economy-council/andreas-sohmen-pao.png" alt="Mr. Andreas Sohmen-Pao" class="" />
     </div>
     <div class="col is-9-tablet">
       <h3>Mr. Andreas Sohmen-Pao*</h3>
@@ -443,7 +443,7 @@ ASEAN Business Advisory Council Chair</strong>
 
   <div class="row">
     <div class="col is-3-tablet">
-      <img src="/images/future-economy-council/teo-lay-lim.jpg" alt="Ms. Teo Lay Lim" class="" />
+      <img src="/images/future-economy-council/teo-lay-lim.png" alt="Ms. Teo Lay Lim" class="" />
     </div>
     <div class="col is-9-tablet">
       <h3>Ms. Teo Lay Lim*</h3>
@@ -488,7 +488,7 @@ Currently responsible for Accenture’s business across ASEAN and a member of Ac
 
   <div class="row">
     <div class="col is-3-tablet">
-          <img src="/images/future-economy-council/oliver-tonby.jpg" alt="Mr. Oliver Tonby" class="" />
+          <img src="/images/future-economy-council/oliver-tonby.png" alt="Mr. Oliver Tonby" class="" />
     </div>
     <div class="col is-9-tablet">
       <h3>Mr. Oliver Tonby</h3>
