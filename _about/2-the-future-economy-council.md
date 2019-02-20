@@ -27,7 +27,7 @@ The FEC will oversee the implementation of the recommendations put forth by the 
       <h3>Ms Mary Liew Kiah Eng</h3>
       <p><strong>President, National Trades Union Congress</strong></p>
       <ul>
-        <li>Appointed as the first female Executive Secretary of Singapore Maritime Officers’ Union in 1999 and subsequently elected as its first female General Secretary in 2013.
+      <li>Appointed as the first female Executive Secretary of Singapore Maritime Officers’ Union in 1999 and subsequently elected as its first female General Secretary in 2013.
 </li><li>
 Represents NTUC in various national bodies such as the Central Provident Fund (CPF) and National Wages Council.</li>
 <li>
