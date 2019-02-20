@@ -191,8 +191,12 @@ ASEAN Business Advisory Council Chair</strong>
       <strong>
       President, Singapore Institute of Technology
       </strong>
+      <ul>
+        <li>Previously, served on ASPIRE and SkillsFuture Council. A member of the Board of SkillsFuture Singapore and the Land Transport Authority</li>
+        <li>Awarded Singapore’s Public Administration Medal, Silver (2008) and Gold (2017)</li>
+        <li>Professional Engineer (Geotechnical)</li>
+      </ul>
       </p>
-      <p>Previously, served on ASPIRE and SkillsFuture Council. A member of the Board of SkillsFuture Singapore and the Land Transport Authority. Awarded Singapore’s Public Administration Medal, Silver (2008) and Gold (2017). Professional Engineer (Geotechnical).</p>
     </div>
   </div>
 <hr>
@@ -206,10 +210,13 @@ ASEAN Business Advisory Council Chair</strong>
       <p>
       <strong>
     Principal, Ngee Ann Polytechnic
-      </strong></p>
-      <p>As the Principal of Ngee Ann Polytechnic, he currently seeks to actively promote entrepreneurship and globalization, support life-long learning and build a future ready campus. </p>
-      <p>Served previously in the Singapore Economic Board, the Singapore Land Authority, the Ministry of Law and the Ministry of Finance.</p>
-      <p>Board member, Action Community for Entrepreneurship and Board member, School of Science and Technology.</p>
+      </strong>
+      <ul>
+        <li>As the Principal of Ngee Ann Polytechnic, he currently seeks to actively promote entrepreneurship and globalization, support life-long learning and build a future ready campus</li>
+        <li>Served previously in the Singapore Economic Board, the Singapore Land Authority, the Ministry of Law and the Ministry of Finance</li>
+        <li>Board member, Action Community for Entrepreneurship and Board member, School of Science and Technology</li>
+      </ul>
+      </p>
     </div>
   </div>
 <hr>
@@ -393,8 +400,11 @@ ASEAN Business Advisory Council Chair</strong>
       <strong>
         Deputy CEO, Temasek International Pte Ltd
       </strong>
+      <ul>
+        <li>Joined Temasek in 2010. Previously Managing Partner of WongPartnership LLP. Member of Financial Centre Advisory Panel, Monetary Authority of Singapore</li>
+        <li>Board Member of Enterprise Singapore, National Research Foundation, Singapore Management University and Singapore Innovate Pte. Ltd</li>
+      </ul>
       </p>
-        <p>Joined Temasek in 2010. Previously Managing Partner of WongPartnership LLP. Member of Financial Centre Advisory Panel, Monetary Authority of Singapore. Board Member of Enterprise Singapore, National Research Foundation, Singapore Management University and Singapore Innovate Pte. Ltd. </p>
     </div>
   </div>
 <hr>
