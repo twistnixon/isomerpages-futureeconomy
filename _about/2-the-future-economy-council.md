@@ -98,18 +98,18 @@ Managing Director & Group CEO of Tat Hong Holdings Ltd, one of the largest crane
       <p><strong>Executive Chairman/Managing Director of Pacific International Lines (Pte) Ltd
       </strong>
       <ul>
-          <li>Chairman and Chief Executive Officer of Singamas Container Holdings Ltd, listed on the Hong Kong Stock Exchange</li>
-          <li>Chairman of the Singapore Business Federation (SBF) </li>
-          <li>Member of the main committee of Singapore’s Committee on the Future Economy (CFE) </li>
-          <li>Board Member of Enterprise Singapore (ESG) </li>
-          <li>Honorary Consul of The United Republic of Tanzania in Singapore</li>
-          <li>Honorary President of Singapore Chinese Chamber of Commerce & Industry (SCCCI)</li>
-          <li>Director, Business China </li>
-          <li>Co-Chairman of Africa-South East Asia Chamber of Commerce</li>
+          <li>Chairman and Chief Executive Officer of Singamas Container Holdings Ltd, listed on the Hong Kong Stock Exchange.</li>
+          <li>Chairman of the Singapore Business Federation (SBF). </li>
+          <li>Member of the main committee of Singapore’s Committee on the Future Economy (CFE). </li>
+          <li>Board Member of Enterprise Singapore (ESG). </li>
+          <li>Honorary Consul of The United Republic of Tanzania in Singapore.</li>
+          <li>Honorary President of Singapore Chinese Chamber of Commerce & Industry (SCCCI).</li>
+          <li>Director, Business China. </li>
+          <li>Co-Chairman of Africa-South East Asia Chamber of Commerce.</li>
           <li>
               Independent non-executive Director of:
               <ul>
-                  <li>COSCO Shipping Energy Transportation Co. Ltd</li>
+                  <li>COSCO Shipping Energy Transportation Co. Ltd.</li>
                   <li>COSCO SHIPPING Holdings Co. Ltd.</li>
               </ul>
           </li>
@@ -151,10 +151,10 @@ ASEAN Business Advisory Council Chair</strong>
       President, Nanyang Technological University, Singapore
       </strong>
       <ul>
-          <li>Formerly Director of the United States National Science Foundation (nominated by President Barack Obama), President of Carnegie Mellon University, and Dean of MIT’s School of Engineering</li>
-          <li>Serves on the Boards of SGX, HP Inc. (Palo Alto, California), A*STAR and NRF</li>
-          <li>Elected member of the US National Academies of Sciences, Engineering and Medicine, and foreign member of the Chinese, Indian, Spanish, German and French Academies of Sciences</li>
-          <li>Recipient of 18 honorary doctorate degrees from institutions in the USA, UK, China, India, Korea, Spain, Sweden, Switzerland and Greece</li>
+          <li>Formerly Director of the United States National Science Foundation (nominated by President Barack Obama), President of Carnegie Mellon University, and Dean of MIT’s School of Engineering.</li>
+          <li>Serves on the Boards of SGX, HP Inc. (Palo Alto, California), A*STAR and NRF.</li>
+          <li>Elected member of the US National Academies of Sciences, Engineering and Medicine, and foreign member of the Chinese, Indian, Spanish, German and French Academies of Sciences.</li>
+          <li>Recipient of 18 honorary doctorate degrees from institutions in the USA, UK, China, India, Korea, Spain, Sweden, Switzerland and Greece.</li>
       </ul>
       </p>
     </div>
@@ -194,9 +194,9 @@ ASEAN Business Advisory Council Chair</strong>
       President, Singapore Institute of Technology
       </strong>
       <ul>
-        <li>Previously, served on ASPIRE and SkillsFuture Council. A member of the Board of SkillsFuture Singapore and the Land Transport Authority</li>
-        <li>Awarded Singapore’s Public Administration Medal, Silver (2008) and Gold (2017)</li>
-        <li>Professional Engineer (Geotechnical)</li>
+        <li>Previously, served on ASPIRE and SkillsFuture Council. A member of the Board of SkillsFuture Singapore and the Land Transport Authority.</li>
+        <li>Awarded Singapore’s Public Administration Medal, Silver (2008) and Gold (2017).</li>
+        <li>Professional Engineer (Geotechnical).</li>
       </ul>
       </p>
     </div>
@@ -214,9 +214,9 @@ ASEAN Business Advisory Council Chair</strong>
     Principal, Ngee Ann Polytechnic
       </strong>
       <ul>
-        <li>As the Principal of Ngee Ann Polytechnic, he currently seeks to actively promote entrepreneurship and globalization, support life-long learning and build a future ready campus</li>
-        <li>Served previously in the Singapore Economic Board, the Singapore Land Authority, the Ministry of Law and the Ministry of Finance</li>
-        <li>Board member, Action Community for Entrepreneurship and Board member, School of Science and Technology</li>
+        <li>As the Principal of Ngee Ann Polytechnic, he currently seeks to actively promote entrepreneurship and globalization, support life-long learning and build a future ready campus.</li>
+        <li>Served previously in the Singapore Economic Board, the Singapore Land Authority, the Ministry of Law and the Ministry of Finance.</li>
+        <li>Board member, Action Community for Entrepreneurship and Board member, School of Science and Technology.</li>
       </ul>
       </p>
     </div>
@@ -275,9 +275,9 @@ ASEAN Business Advisory Council Chair</strong>
       </strong>
 
       <ul>
-          <li>Currently serves as the President and Chief Executive Officer of SATS with the overall responsibility of leading the SATS Group</li>
-          <li>Over 25 years of global leadership experience, having held several top level appointments as Chief Executive Officer of HSBC in Singapore, Group Managing Director of Personal Financial Services and Marketing in London, Managing Director, Asia Pacific for Reuters in Hong Kong, and Co-Chief Executive Officer, Americas and Global Chief Marketing Officer for Reuters in New York</li>
-          <li>Serves as an Independent Director of United Overseas Bank, board member of the Singapore Economic Development Board</li>
+          <li>Currently serves as the President and Chief Executive Officer of SATS with the overall responsibility of leading the SATS Group.</li>
+          <li>Over 25 years of global leadership experience, having held several top level appointments as Chief Executive Officer of HSBC in Singapore, Group Managing Director of Personal Financial Services and Marketing in London, Managing Director, Asia Pacific for Reuters in Hong Kong, and Co-Chief Executive Officer, Americas and Global Chief Marketing Officer for Reuters in New York.</li>
+          <li>Serves as an Independent Director of United Overseas Bank, board member of the Singapore Economic Development Board.</li>
       </ul>
       </p>
     </div>
@@ -317,7 +317,7 @@ ASEAN Business Advisory Council Chair</strong>
       <ul>
         <li>CEO of House of Teak (Singapore) Pte Ltd - Oversees Scanteak Singapore’s business operations and manages overseas franchises.  Pioneered the company’s shift in operations towards an omni-channel approach.</li>
         <li>Regional Marketing Director of the Scanteak Group of Companies - Spearheads the Scanteak Group’s regional marketing and branding initiatives.</li>
-        <li>Led the Scanteak brand to win awards such as: the Promising Brand Award (2005), CitiBusiness – SPBA Regional Brand Award (2006, 2013), SuperBrands (2009), the Singapore Good Design Award (2015), the Good Design Award (Japan) (2015), the IPOS Award for Design Innovation (2015) and the President’s Design Award Singapore (2015)</li>
+        <li>Led the Scanteak brand to win awards such as: the Promising Brand Award (2005), CitiBusiness – SPBA Regional Brand Award (2006, 2013), SuperBrands (2009), the Singapore Good Design Award (2015), the Good Design Award (Japan) (2015), the IPOS Award for Design Innovation (2015) and the President’s Design Award Singapore (2015).</li>
         <li>Winner of the JCI TOYP (Ten Outstanding Young Persons of the World) Singapore Award 2012.</li>
       </ul>
       </p>
@@ -403,8 +403,8 @@ ASEAN Business Advisory Council Chair</strong>
         Deputy CEO, Temasek International Pte Ltd
       </strong>
       <ul>
-        <li>Joined Temasek in 2010. Previously Managing Partner of WongPartnership LLP. Member of Financial Centre Advisory Panel, Monetary Authority of Singapore</li>
-        <li>Board Member of Enterprise Singapore, National Research Foundation, Singapore Management University and Singapore Innovate Pte. Ltd</li>
+        <li>Joined Temasek in 2010. Previously Managing Partner of WongPartnership LLP. Member of Financial Centre Advisory Panel, Monetary Authority of Singapore.</li>
+        <li>Board Member of Enterprise Singapore, National Research Foundation, Singapore Management University and Singapore Innovate Pte. Ltd.</li>
       </ul>
       </p>
     </div>
@@ -423,9 +423,9 @@ ASEAN Business Advisory Council Chair</strong>
       </strong>
       <ul>
         <li>Chairman of BW Offshore, BW LPG and Hafnia Tankers</li>
-        <li>Chairman of Singapore Maritime Foundation</li>
-        <li>As CEO of BW, developed the company into a global maritime group in oil and gas production and shipping</li>
-        <li>Serves on the boards of NParks, Singapore Symphony Orchestra and as a trustee of the Lloyd’s Register Foundation</li>
+        <li>Chairman of Singapore Maritime Foundation.</li>
+        <li>As CEO of BW, developed the company into a global maritime group in oil and gas production and shipping.</li>
+        <li>Serves on the boards of NParks, Singapore Symphony Orchestra and as a trustee of the Lloyd’s Register Foundation.</li>
       </ul>
       </p>
     </div>
@@ -446,7 +446,7 @@ ASEAN Business Advisory Council Chair</strong>
           <li>Founder and Managing Director of Select Group Pte Ltd and is primarily responsible for the overall management, strategic planning and business development of Select Group.</li>
           <li>Jointly chair the Lifestyle subcommittee under Future Economy Council with Senior Minister of State Sim Ann.</li>
           <li>President of Restaurant Association of Singapore.</li>
-          <li>Committee member of Payments Council</li>
+          <li>Committee member of Payments Council.</li>
       </ul>
       </p>
     </div>
@@ -464,14 +464,14 @@ ASEAN Business Advisory Council Chair</strong>
           Senior Managing Director, Accenture
       </strong>
       <ul>
-        <li>Joined Accenture on March 1, 1988
+        <li>Joined Accenture on March 1, 1988.
 </li>
         <li>
-Currently responsible for Accenture’s business across ASEAN and a member of Accenture’s Global Leadership Council</li>
+Currently responsible for Accenture’s business across ASEAN and a member of Accenture’s Global Leadership Council.</li>
         <li>
-        Held various APAC management consulting leadership roles from 2000-2011 and spent 2 years based in Shanghai 2007, 2007</li>
+        Held various APAC management consulting leadership roles from 2000-2011 and spent 2 years based in Shanghai 2007, 2007.</li>
         <li>
-        Serves on the board of the Institute for HR Professionals (IHRP)</li>
+        Serves on the board of the Institute for HR Professionals (IHRP).</li>
       </ul>
       </p>
     </div>
@@ -516,7 +516,7 @@ Core leader of McKinsey’s Digital Capability Centre (DCC) in Singapore, an Ind
         <li>
         Previously the Managing Partner for Southeast Asia and the global co-lead for McKinsey’s firmwide ‘All-In’ initiative, which develops and shares innovative ways of working that promote gender inclusivity and women’s leadership.  </li>
         <li>
-        A frequent commentator on regional growth, having authored the McKinsey Global Institute (MGI) report “Southeast Asia at the crossroads: Three paths to prosperity.” </li>
+        A frequent commentator on regional growth, having authored the McKinsey Global Institute (MGI) report “Southeast Asia at the crossroads: Three paths to prosperity”. </li>
       </ul>
       </p>
     </div>
@@ -535,17 +535,17 @@ Core leader of McKinsey’s Digital Capability Centre (DCC) in Singapore, an Ind
       </strong>
       <ul>
           <li>Founding Partner, Board Member RekaNext Capital Partners Pte. Ltd.</li>
-          <li>Previously Vice President at Palo Alto Networks, McAfee, EMC in ASEAN, Asia- Pacific </li>
-          <li>Board Member of NTUC Fairprice, EZ-Link & WorkForce Singapore</li>
-          <li>Member Advisory Council M3 (MUIS, MESRA, Mendaki) </li>
-          <li>Member Advisory Committee, School of Computing - Singapore Polytechnic; Singapore Prisons IDAC, Mendaki Digital Transformation Committee</li>
-          <li>Former Board Member Land Transport Authority, Association of Muslim Professional</li>
+          <li>Previously Vice President at Palo Alto Networks, McAfee, EMC in ASEAN, Asia- Pacific. </li>
+          <li>Board Member of NTUC Fairprice, EZ-Link & WorkForce Singapore.</li>
+          <li>Member Advisory Council M3 (MUIS, MESRA, Mendaki). </li>
+          <li>Member Advisory Committee, School of Computing - Singapore Polytechnic; Singapore Prisons IDAC, Mendaki Digital Transformation Committee.</li>
+          <li>Former Board Member Land Transport Authority, Association of Muslim Professional.</li>
           <li>Friend of Labor Award 2017, Singapore Labour Movement.</li>
       </ul>
       </p>
     </div>
   </div>
-
-*New member*
+<hr>
+### *New member*
 
 </div>
