@@ -18,10 +18,10 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
 
 
 <div class="row">
-  <div class="col is-2-tablet">
+  <div class="col is-3-tablet">
       <img src="/images/future-economy-council/mary-liew-kiah-eng.jpg" alt="Ms Mary Liew Kiah Eng" class="" />
   </div>
-  <div class="col is-10-tablet">
+  <div class="col is-9-tablet">
       <h3>Ms Mary Liew Kiah Eng, 56</h3>
       <p><strong>President, National Trades Union Congress</strong></p>
       <ul>
