@@ -244,6 +244,16 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
+// About Econony Council
+#economy-council {
+	p {
+		margin-top: 0;
+	}
+	hr {
+		margin: 2rem 0 3rem;
+	}
+}
+
 // Banner font size tweak
 #main-content > section.bp-hero.bg-hero > div > div > div > div > h1 {
 	line-height: 3rem;
