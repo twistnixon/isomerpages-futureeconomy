@@ -14,6 +14,8 @@ The FEC will oversee the implementation of the recommendations put forth by the 
 
 ---
 
+<h5><i>*New member</i></h5>
+
 ### **Members of the Future Economy Council (FEC)**
 
 <div class="padding--top" id="economy-council">
@@ -545,7 +547,5 @@ Core leader of McKinsey’s Digital Capability Centre (DCC) in Singapore, an Ind
       </p>
     </div>
   </div>
-<hr>
-<h5><i>*New member</i></h5>
 
 </div>
