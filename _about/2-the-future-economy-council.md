@@ -10,11 +10,9 @@ The Future Economy Council (FEC) drives the growth and transformation of Singapo
 
 The FEC will oversee the implementation of the recommendations put forth by the Committee on the Future Economy (CFE), and will build on the work of the earlier Council for Skills, Innovation and Productivity, which includes SkillsFuture initiatives and Industry Transformation Maps.
 
-[View the full list of the members (63kb)](/images/PDF/The-Future-Economy-Council/15-Feb_FE_Council-members.pdf)
+[View the full list of the members (63kb)](/images/PDF/The-Future-Economy-Council/FE_Council members.pdf)
 
 ---
-
-<h5><i>*New member</i></h5>
 
 ### **Members of the Future Economy Council (FEC)**
 
@@ -49,7 +47,7 @@ Elected into the International Labour Organisation’s Governing Body since 2014
       <img src="/images/future-economy-council/desmond-choo.png" alt="Mr Desmond Choo" class="" />
   </div>
   <div class="col is-9-tablet">
-      <h3>Mr Desmond Choo*</h3>
+      <h3>Mr Desmond Choo</h3>
       <p><strong>Assistant Secretary-General, National Trades Union Congress, Mayor of North East District and Member of Parliament for Tampines GRC</strong> </p>
       <ul>
         <li>Currently the Assistant Secretary-General at National Trades Union Congress (NTUC), holding two key portfolios as Director of the Youth Development Unit at NTUC, advocating young workers’ issues for Singapore’s largest youth movement and Director at the Industrial Relations Department, driving industry transformation and productivity.
@@ -147,7 +145,7 @@ ASEAN Business Advisory Council Chair</strong>
           <img src="/images/future-economy-council/subra-suresh.png" alt="Prof. Subra Suresh" class="">
     </div>
     <div class="col is-9-tablet">
-      <h3>Prof. Subra Suresh*</h3>
+      <h3>Prof. Subra Suresh</h3>
       <p>
       <strong>
       President, Nanyang Technological University, Singapore
@@ -169,7 +167,7 @@ ASEAN Business Advisory Council Chair</strong>
           <img src="/images/future-economy-council/tan-eng-chye.png" alt="Prof. Tan Eng Chye" class="" />
     </div>
     <div class="col is-9-tablet">
-      <h3>Prof. Tan Eng Chye*</h3>
+      <h3>Prof. Tan Eng Chye</h3>
       <p>
       <strong>
     President, National University of Singapore (NUS)
@@ -229,7 +227,7 @@ ASEAN Business Advisory Council Chair</strong>
           <img src="/images/future-economy-council/azlinda-anwar.png" alt="Dr. Azlinda Anwar" class="" />
     </div>
     <div class="col is-9-tablet">
-      <h3>Dr. Azlinda Anwar*</h3>
+      <h3>Dr. Azlinda Anwar</h3>
       <p>
       <strong>
       Assistant Director, Temasek Life Sciences Laboratory (TLL)
@@ -249,7 +247,7 @@ ASEAN Business Advisory Council Chair</strong>
           <img src="/images/future-economy-council/chew-kwee-tiang.png" alt="Mrs. Chew Kwee Tiang" class="" />
     </div>
     <div class="col is-9-tablet">
-      <h3>  Mrs. Chew Kwee Tiang*</h3>
+      <h3>  Mrs. Chew Kwee Tiang</h3>
       <p>
       <strong>
         Chief Executive Officer of Khoo Teck Puat Hospital and Yishun Health
@@ -270,7 +268,7 @@ ASEAN Business Advisory Council Chair</strong>
             <img src="/images/future-economy-council/alexander-charles-hungate.png" alt="Mr. Alexander Charles Hungate" class="">
     </div>
     <div class="col is-9-tablet">
-      <h3>  Mr. Alexander Charles Hungate*</h3>
+      <h3>Mr. Alexander Charles Hungate</h3>
       <p>
       <strong>
         President and CEO, SATS Ltd.
@@ -292,7 +290,7 @@ ASEAN Business Advisory Council Chair</strong>
             <img src="/images/future-economy-council/amos-leong.png" alt="Mr. Amos Leong" class="">
     </div>
     <div class="col is-9-tablet">
-      <h3>Mr. Amos Leong*</h3>
+      <h3>Mr. Amos Leong</h3>
       <p>
       <strong>
         President & CEO, Univac Group
@@ -355,7 +353,7 @@ ASEAN Business Advisory Council Chair</strong>
       <img src="/images/future-economy-council/lim-ming-yan.png" alt="Mr. Lim Ming Yan" class="">
     </div>
     <div class="col is-9-tablet">
-      <h3>  Mr. Lim Ming Yan</h3>
+      <h3>Mr. Lim Ming Yan</h3>
       <p>
       <strong>
             Executive Non-Independent Director, CapitaLand Limited
@@ -418,7 +416,7 @@ ASEAN Business Advisory Council Chair</strong>
     <img src="/images/future-economy-council/andreas-sohmen-pao.png" alt="Mr. Andreas Sohmen-Pao" class="" />
     </div>
     <div class="col is-9-tablet">
-      <h3>Mr. Andreas Sohmen-Pao*</h3>
+      <h3>Mr. Andreas Sohmen-Pao</h3>
       <p>
       <strong>
         Executive Chairman, BW Group
@@ -439,7 +437,7 @@ ASEAN Business Advisory Council Chair</strong>
     <img src="/images/future-economy-council/vincent-tan.png" alt="Mr. Vincent Tan" class="">
     </div>
     <div class="col is-9-tablet">
-      <h3>  Mr. Vincent Tan</h3>
+      <h3>Mr. Vincent Tan</h3>
       <p>
       <strong>
         Managing Director, Select Group Pte Ltd
@@ -460,7 +458,7 @@ ASEAN Business Advisory Council Chair</strong>
       <img src="/images/future-economy-council/teo-lay-lim.png" alt="Ms. Teo Lay Lim" class="" />
     </div>
     <div class="col is-9-tablet">
-      <h3>Ms. Teo Lay Lim*</h3>
+      <h3>Ms. Teo Lay Lim</h3>
       <p>
       <strong>
           Senior Managing Director, Accenture
@@ -485,7 +483,7 @@ Currently responsible for Accenture’s business across ASEAN and a member of Ac
         <img src="/images/future-economy-council/russell-tham.png" alt="Mr. Russell Tham" class="">
     </div>
     <div class="col is-9-tablet">
-      <h3>  Mr. Russell Tham</h3>
+      <h3>Mr. Russell Tham</h3>
       <p>
       <strong>
         President, New Enterprises & Ventures
@@ -530,7 +528,7 @@ Core leader of McKinsey’s Digital Capability Centre (DCC) in Singapore, an Ind
           <img src="/images/future-economy-council/wahab-yusoff.png" alt="Mr. Vincent Tan" class="">
     </div>
     <div class="col is-9-tablet">
-      <h3>Wahab Yusoff*</h3>
+      <h3>Wahab Yusoff</h3>
       <p>
       <strong>
           Vice President, Asia, Forescout Technologies
