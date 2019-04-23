@@ -15,16 +15,16 @@ hero-banner: /images/FE_Web-Banner_v0.jpg
 # Key Highlights
 key-highlights:
   - title: Innovation
-    # description: Lorem ipsum dolor sit amet
+    description:
     url: /success-stories/innovation/
   - title: Internationalisation
-    # description: Lorem ipsum dolor sit amet
+    description:
     url: /success-stories/internationalisation/
   - title: Jobs & Skills
-    # description: Lorem ipsum dolor sit amet
+    description:
     url: /success-stories/jobs-and-skills/
   - title: Productivity
-    # description: Lorem ipsum dolor sit amet
+    description:
     url: /success-stories/productivity/
   # - title: MODERN SERVICES
   #   description: Lorem ipsum dolor sit amet

@@ -39,7 +39,7 @@ Sustainability and reducing waste is something many companies see as important. 
 * Treatsure is in the process of developing technology to better study consumer and producer behaviour, and hopes to be able to help companies optimise their food production.
 
 #### **PURSUING INTERNATIONALISATION:**
-* -	Treatsure has received requests to collaborate overseas, and seeks to expand into other parts of the Asia-Pacific region when it acquires the resources and opportunities to do so.
+* Treatsure has received requests to collaborate overseas, and seeks to expand into other parts of the Asia-Pacific region when it acquires the resources and opportunities to do so.
 
 #### **GETTING AHEAD WITH GRANTS & SCHEMES:**
 * The SME Talent Programme (STP) enabled Treatsure to defray the cost of hiring in its initial stages, and let them tap on a stream of tertiary institution talents for sales, marketing and product development.
