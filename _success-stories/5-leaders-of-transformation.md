@@ -31,6 +31,26 @@ collection_name: success-stories
 	      </div>
 			</a>
 		</div>
+        <div class="col is-half-tablet padding--bottom--lg">
+			<a href="/success-stories/leaders-of-transformation/the-golden-concepts/" class="project-link">
+				<img src="/images/Binter-Co.png" alt="Binter & Co" class="project-image" width="" height="">
+                 <div class="project-card">
+	          <div class="project-title margin--bottom--xs">
+	              <h5><b>A family business takes the road less travelled</b></h5>
+	          </div>
+	      </div>
+			</a>
+		</div>
+        <div class="col is-half-tablet padding--bottom--lg">
+			<a href="/success-stories/leaders-of-transformation/the-golden-concepts/" class="project-link">
+				<img src="/images/blu.png" alt="blu" class="project-image" width="" height="">
+                 <div class="project-card">
+	          <div class="project-title margin--bottom--xs">
+	              <h5><b>Startup aims to take the blues out of retail logistics</b></h5>
+	          </div>
+	      </div>
+			</a>
+		</div>
 	
 		
 		
