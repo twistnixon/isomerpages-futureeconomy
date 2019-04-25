@@ -42,6 +42,8 @@ breadcrumbs:
 
 
 collections:
+  leaders-of-transformation:
+    output: true
   about:
     output: true
   industries:
@@ -84,6 +86,7 @@ collections:
     output: true
   resources:
     output: true
+
 
 # Resource Room and Pagination
 resources_name: "media-and-news"
