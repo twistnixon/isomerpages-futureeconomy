@@ -6,9 +6,11 @@ breadcrumb: Leaders of Transformation
 collection_name: success-stories
 ---
 
-### Leaders of Transformation
----
+## Leaders of Transformation
+<h4 class="subtitle"> Innovation, skills upgrading, productivity and internationalisation - these are some of the key ingredients of industry transformation. 26 companies have taken the bold step to transform , taking the lead in their respective industries to challenge the way things have always been done. <br/>
+They are leaders of transformation. Be inspired by their story and discover the possibilities for your business.</h4>
 
+---
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
@@ -16,7 +18,7 @@ collection_name: success-stories
 				<img src="/images/800-super-holdings.png" alt="800 Super Holdings" class="project-image" width="" height="">
                  <div class="project-card">
 	          <div class="project-title margin--bottom--xs">
-	              <h5><b>Super ways to handle waste</b></h5>
+	              <h5><b>800 Super Holdings</b></h5>
 	          </div>
 	      </div>
 			</a>
@@ -26,7 +28,7 @@ collection_name: success-stories
 				<img src="/images/ademco.png" alt="Ademco Security Group" class="project-image" width="" height="">
                  <div class="project-card">
 	          <div class="project-title margin--bottom--xs">
-	              <h5><b>Transforming for a more secure future</b></h5>
+	              <h5><b>Ademco Security Group</b></h5>
 	          </div>
 	      </div>
 			</a>
@@ -36,7 +38,7 @@ collection_name: success-stories
 				<img src="/images/Binter-Co.png" alt="Binter & Co" class="project-image" width="" height="">
                  <div class="project-card">
 	          <div class="project-title margin--bottom--xs">
-	              <h5><b>A family business takes the road less travelled</b></h5>
+	              <h5><b>Binter & Co</b></h5>
 	          </div>
 	      </div>
 			</a>
@@ -46,7 +48,7 @@ collection_name: success-stories
 				<img src="/images/blu.png" alt="blu" class="project-image" width="" height="">
                  <div class="project-card">
 	          <div class="project-title margin--bottom--xs">
-	              <h5><b>Startup aims to take the blues out of retail logistics</b></h5>
+	              <h5><b>blu</b></h5>
 	          </div>
 	      </div>
 			</a>
@@ -56,7 +58,7 @@ collection_name: success-stories
 				<img src="/images/CBM.png" alt="CBM" class="project-image" width="" height="">
                  <div class="project-card">
 	          <div class="project-title margin--bottom--xs">
-	              <h5><b>Fresh take on facilities management</b></h5>
+	              <h5><b>CBM</b></h5>
 	          </div>
 	      </div>
 			</a>
@@ -66,7 +68,7 @@ collection_name: success-stories
 				<img src="/images/Chye-Thiam-Maintenance.png" alt="Chye Thiam Maintenance" class="project-image" width="" height="">
                  <div class="project-card">
 	          <div class="project-title margin--bottom--xs">
-	              <h5><b>Chye Thiam cleans up with tech</b></h5>
+	              <h5><b>Chye Thiam Maintenance</b></h5>
 	          </div>
 	      </div>
 			</a>
