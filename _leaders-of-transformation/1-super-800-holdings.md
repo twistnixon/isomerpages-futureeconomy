@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Super Ways to Handle Waste
+title: 800 Super Holdings - Super Ways to Handle Waste
 permalink: /success-stories/leaders-of-transformation/super-800-holdings/
 breadcrumb: Super Ways to Handle Waste
 collection_name: leaders-of-transformation
