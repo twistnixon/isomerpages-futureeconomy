@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: 800 Super Holdings - Super Ways to Handle Waste
+title: 800 Super Holdings
 permalink: /success-stories/leaders-of-transformation/super-800-holdings/
 breadcrumb: Super Ways to Handle Waste
 collection_name: leaders-of-transformation
@@ -20,9 +20,6 @@ collection_name: leaders-of-transformation
     <img src="/images/800-super-holdings.png" alt="800 Super Holdings" width="" height="">
     <p>At 800 Super’s integrated Tuas facility, different business activities feed into each other so that nothing goes to waste, says CEO William Lee.</p></div>
 
-
-
-### **FISHING FOR SUCCESS**
 
 Green energy, laundry, and plastic bag production may not seem the most obvious activities for a waste management company. Behind these moves by 800 Super Holdings, however, is the core idea of not letting things go to waste – as these new areas are fed by the firm’s existing businesses.
 
@@ -144,4 +141,4 @@ If the bin is not hooked up properly, the truck’s system will stop the lifting
 The system can also tell whether the arm’s prongs are calibrated to the correct size for the bins that it is handling, and will seek confirmation from the driver if there appears to be a discrepancy.
 Mr Singh appreciates the advanced nature of the side-loading collection truck, in contrast to the previous truck he was driving: “This one is more high-tech ... It shows you the lines to follow, so you can adjust.”
 
-[800-Super-Holdings.pdf (819kb)](/images/PDF/Leaders-Of-Transformation/800-Super-Holdings.pdf){:target="_blank"}
+[800-Super-Holdings.pdf](/images/PDF/Leaders-Of-Transformation/800-Super-Holdings.pdf){:target="_blank"}
