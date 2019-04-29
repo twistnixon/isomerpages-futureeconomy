@@ -1,13 +1,13 @@
 ---
 layout: leftnav-page-content
-title: Tee Yih Jia
+title: Tee Yih Jia Food Manufacturer 
 permalink: /success-stories/leaders-of-transformation/tee-yih-jia/
 breadcrumb: New spins on classic ingredients
 collection_name: leaders-of-transformation
 ---
 
 ## **New spins on classic ingredients**
-<h4 class="no-margin-top">Known for its engineering design capabilities, contract manufacturer Racer is now using digitalisation and IoT to take it to the next level.</h4>
+<h4 class="no-margin-top">Since its inception in 1969, Tee Yih Jia has burgeoned from manufacturing popiah skins to becoming a global player producing a wide range of foodstuffs, with the judicious adoption of automated production. </h4>
 
 
 

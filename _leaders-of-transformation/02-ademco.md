@@ -17,7 +17,7 @@ collection_name: leaders-of-transformation
 
 
 <div class="lot-caption">
-    <img src="/images/ademco.png" alt="800 Super Holdings" width="" height="">
+    <img src="/images/ademco-2.png" alt="800 Super Holdings" width="" height="">
     <p>Ademco group MD Toby Koh overseeing the operations at the control room. The company has expanded to Indonesia, India, China and Vietnam, and wants its overseas presence to account for more than half of annual revenue by 2020.</p></div>
 
 Over the last four decades, Ademco Security Group has been a pioneer in Singapore’s se-curity sector in many ways.
@@ -130,7 +130,7 @@ For Ademco, transformation is not just about be-coming a better security service
 ### **Going digital has improved efficiency of Ademco staff**
 
 <div class="lot-caption">
-    <img src="/images/ademco-2.png" alt="800 Super Holdings" width="" height="">
+    <img src="/images/ademco.png" alt="800 Super Holdings" width="" height="">
     <p>Mr Koh (second from right) with (from left) customer service manager Kristen Lim, Zailan bin Zohri from the banking team, and team leader Maung Maung Ye Htut.</p></div>
 
 WHEN Maung Maung Ye Htut started working for Ademco in 2007, it was much more of an “analog” world.

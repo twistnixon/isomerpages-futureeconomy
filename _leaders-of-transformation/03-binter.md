@@ -95,8 +95,6 @@ Today, Binter’s extensive and expanding overseas presence speaks for itself. B
 
 Some older employees did leave instead of following Binter on its new journey, admits Mr Lim. Then there was the need to win the older generation’s approval.
 
-Mr Lim’s tip for his fellow younger-generation bosses: “Try to do as much as possible in the old-timers' way, to see and understand where they come from”. And when making changes, do so in areas where the older generation do not necessarily have expertise.
-
 “My father is from the baby boomer generation. They focus on making the sale, not on the backend,” says Mr Lim. So he decided to tackle the issue of inventory management, a business aspect that was important yet not heavily focused on previously.
 
 When the younger generation wants to transform a family business, it is crucial to build trust between generations, he says – respecting the past even while moving into the future.

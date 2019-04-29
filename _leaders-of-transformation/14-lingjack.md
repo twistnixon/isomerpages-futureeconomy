@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Lingjack
+title: Lingjack Engineering Works
 permalink: /success-stories/leaders-of-transformation/lingjack/
 breadcrumb: Extinguishing scepticism about change
 collection_name: leaders-of-transformation

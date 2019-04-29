@@ -68,7 +68,7 @@ In a commercial or industrial setting, in contrast, there is a constant need to 
 
 Commercialisation of technology that originates in a research lab can be challenging because of the com-plexities of technology transfer, such as questions re-lating to IP and how to manage it, adds Dr Tan.
 
-Happily, A*Star itself was “very supportive”. Lu-cence also benefited as a member of A*STARTCentral, a co-innovation space which helps to incubate, develop, train and support technopreneurs from A*Star.
+Happily, A*Star itself was “very supportive”. Lucence also benefited as a member of A*STARTCentral, a co-innovation space which helps to incubate, develop, train and support technopreneurs from A*Star.
 
 Another factor that has aided Lucence’s commer-cialisation efforts is simply the value of its services.
 

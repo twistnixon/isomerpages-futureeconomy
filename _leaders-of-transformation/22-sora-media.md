@@ -11,17 +11,13 @@ collection_name: leaders-of-transformation
 
 
 
-<blockquote>
-  <i>“I think you have to pay attention to what is happening outside of Singapore because that is one of the indications of what big companies are pushing into.”</i><br/>-– Sora Media co-founder Kelly Lin
-</blockquote>
-<blockquote>
-  <i>“The technology is so fast, you need to up your game. It’s not just knowing how to frame and to focus, but you also need to change your skills.”</i><br/>-– Sora Media co-founder Ericson Gangoso
-</blockquote>
-
-
 <div class="lot-caption">
     <img src="/images/Sora-Media.png" alt="Sora-Media" width="" height="">
    </div>
+   
+<blockquote>
+  <i>“I think you have to pay attention to what is happening outside of Singapore because that is one of the indications of what big companies are pushing into.”</i><br/>-– Sora Media co-founder Kelly Lin
+</blockquote>   
     
 For Sora Media, producing virtual reality (VR) films is a very real business today.
 
@@ -120,6 +116,12 @@ VR may have been a huge leap forward, but Sora Media’s journey into the future
 <div class="lot-caption">
     <img src="/images/Sora-Media-2.png" alt="Sora Media" width="" height="">
    </div>
+   
+   
+<blockquote>
+  <i>“The technology is so fast, you need to up your game. It’s not just knowing how to frame and to focus, but you also need to change your skills.”</i><br/>-– Sora Media co-founder Ericson Gangoso
+</blockquote>
+   
 
 WITH the rapid development of technology, once-complicated techniques are no longer flights of fancy for smaller filmmakers.
 

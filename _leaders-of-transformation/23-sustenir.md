@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Sustenir
+title: Sustenir Agriculture
 permalink: /success-stories/leaders-of-transformation/sustenir/
 breadcrumb: Sustenir sows the seeds of success
 collection_name: leaders-of-transformation

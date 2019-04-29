@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Pan-United
+title: Pan-United Corporation
 permalink: /success-stories/leaders-of-transformation/pan-united/
 breadcrumb: Breaking new ground in concrete
 collection_name: leaders-of-transformation

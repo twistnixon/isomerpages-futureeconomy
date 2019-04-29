@@ -109,7 +109,7 @@ Transforming with the times has allowed the com-pany to both retain veterans and
 
 <div class="lot-caption">
     <img src="/images/800-super-holdings-2.png" alt="800 Super Holdings" width="" height="">
-    <p>At 800 Super’s integrated Tuas facility, different business activities feed into each other so that nothing goes to waste, says CEO William Lee.</p></div>
+    <p>This April, Balbant Singh started driving the side- loading recycling collection truck, covering the Ang Mo Kio-Toa Payoh sector. He can do his rounds in the recycling truck without having to leave his seat</p></div>
 
 From his seat in the truck’s cabin, Balbant Singh, 61, pays careful attention to the digital screens and camera feeds beside him. Outside, a large metal claw lowers from the side of the truck, prongs adjusting to grip the nearby recycling bin.
 
