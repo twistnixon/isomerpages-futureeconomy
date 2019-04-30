@@ -12,7 +12,7 @@ collection_name: leaders-of-transformation
 
 
 <blockquote>
-  <i>"Mr Lim’s tip for his fellow younger-generation bosses: “Try to do as much as possible in the old-timers' way, to see and understand where they come from”. And when making changes, do so in areas where the older generation do not necessarily have expertise." </i>
+  <i>Mr Lim’s tip for his fellow younger-generation bosses: “Try to do as much as possible in the old-timers' way, to see and understand where they come from”. And when making changes, do so in areas where the older generation do not necessarily have expertise. </i>
 </blockquote>
 
 

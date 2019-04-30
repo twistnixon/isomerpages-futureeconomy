@@ -12,7 +12,9 @@ collection_name: leaders-of-transformation
 
 
 <blockquote>
-  <i>With its breadth of experience, Racer is also well-placed to apply the knowledge acquired from one product to others. Its US design office, still active today, receives a lot of business from projects on crowdfunding website Kickstarter.</i>
+  <i>As a small firm that has made it big,
+Tee Yih Jia now hopes to help other local industry players scale up. It plans to have joint research and development (R&amp;D) facilities in its new factory,
+not just for its own purposes, but to serve the wider food industry.</i>
 </blockquote>
 
 
