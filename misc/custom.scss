@@ -453,3 +453,19 @@ a.no-pdf-icon {
 body > footer.bp-footer.top-section > div > div:nth-child(3) > div.col.padding--top--sm.padding--bottom--sm.is-right-desktop-only > ul > li:nth-child(1), body > footer.bp-footer.top-section > div > div:nth-child(3) > div.col.padding--top--sm.padding--bottom--sm.is-right-desktop-only > ul > li:nth-child(3), body > footer.bp-footer.top-section > div > div:nth-child(3) > div.col.padding--top--sm.padding--bottom--sm.is-right-desktop-only > ul > li:nth-child(2) {
 	display: none;
 }
+
+.lot-caption img{
+        margin: 3em 0 0.5em 0;
+}
+
+.lot-caption p{
+    font-size: 1.0em;
+    line-height: 1.2em !important;
+    margin-top: 0.5em !important;
+    margin-bottom: 2.0em !important;
+}
+
+.subtitle{
+        margin-top: 0.5em !important;
+    margin-bottom: 0.5em !important;
+}

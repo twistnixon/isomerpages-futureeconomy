@@ -40,9 +40,9 @@ The CFE’s recommendations are as follows:
 
 * To **facilitate acquisition of deeper skills**, our training providers and Institutes of Higher Learning (IHLs) should support more modularised and technology-enabled training programmes. The Government can consider setting up an online one-stop education, training, and career guidance portal to help Singaporeans plan their careers. 
 * We should **strength nexus between acquisition and utilisation of skills**. For this to happen, training needs to be closely linked to the requirements of the job.
-    * We should develop more company-led programmes, such as IMDA’s TechSkills Accelerator (TeSA), where company-led training efforts have resulted in a 100% placement rate among TeSA graduates. The Government and companies can also support more place-and-train schemes and work-learn programmes, not just for fresh graduates, but also existing employees.
-    * To make the labour market more efficient, and match jobseekers and employers better, we should improve the user experience and functionality of the national Jobs Bank.
-    * Existing schemes such as the Professional Conversion Programme and Career Support Programme can also be improved to ensure that everyone can benefit from growth.
+  * We should develop more company-led programmes, such as IMDA’s TechSkills Accelerator (TeSA), where company-led training efforts have resulted in a 100% placement rate among TeSA graduates. The Government and companies can also support more place-and-train schemes and work-learn programmes, not just for fresh graduates, but also existing employees.
+  * To make the labour market more efficient, and match jobseekers and employers better, we should improve the user experience and functionality of the national Jobs Bank.
+  * Existing schemes such as the Professional Conversion Programme and Career Support Programme can also be improved to ensure that everyone can benefit from growth.
 
 [Back to top](#top)
 

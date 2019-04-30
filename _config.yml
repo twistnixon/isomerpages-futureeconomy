@@ -42,6 +42,8 @@ breadcrumbs:
 
 
 collections:
+  leaders-of-transformation:
+    output: true
   about:
     output: true
   industries:
@@ -53,8 +55,6 @@ collections:
   internationalisation:
     output: true
   productivity:
-    output: true
-  industries:
     output: true
   industry-transformation-maps:
     output: true
@@ -87,6 +87,7 @@ collections:
   resources:
     output: true
 
+
 # Resource Room and Pagination
 resources_name: "media-and-news"
 paginate: 12
@@ -107,3 +108,5 @@ faq_url_external: false
 # Custom CSS file path
 custom_css_path: "/misc/custom.css"
 custom_print_css_path: "/assets/css/print.css"
+
+exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
