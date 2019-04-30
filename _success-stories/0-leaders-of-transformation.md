@@ -7,7 +7,7 @@ collection_name: success-stories
 ---
 
 ## Leaders of Transformation
-<h4 class="subtitle"> Innovation, skills upgrading, productivity and internationalisation - these are some of the key ingredients of industry transformation. 26 companies have taken the bold step to transform , taking the lead in their respective industries to challenge the way things have always been done. <br/>
+<h4 class="subtitle"> Innovation, skills upgrading, productivity and internationalisation - these are some of the key ingredients of industry transformation. 26 companies have taken the bold step to transform , taking the lead in their respective industries to challenge the way things have always been done. <br/><br/>
 They are leaders of transformation. Be inspired by their story and discover the possibilities for your business.</h4>
 
 ---
@@ -148,7 +148,7 @@ They are leaders of transformation. Be inspired by their story and discover the 
 				<img src="/images/Lingjack.png" alt="Lingjack" class="project-image" width="" height="">
                  <div class="project-card">
 	          <div class="project-title margin--bottom--xs">
-	              <h5><b>Lingjack</b></h5>
+	              <h5><b>Lingjack Engineering Works</b></h5>
 	          </div>
 	      </div>
 			</a>
